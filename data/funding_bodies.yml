@@ -15,7 +15,7 @@ items:
      id: "bmbf"
      link: https://www.bmbf.de/
      logo: /images/funding/bmbf.png
-  - name: Bundesministerium für Wirtschaft und Energie
+   - name: Bundesministerium für Wirtschaft und Energie
      id: "bmwi"
      link: https://www.bmwi.de/
      logo: /images/funding/bmwi.png
