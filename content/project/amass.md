@@ -8,14 +8,6 @@ facebook: ""
 linkedin: ""
 twitter: ""
 youtube: ""
-<<<<<<< Upstream, based on origin/phkrief/updates
-funding_bodies: []
-eclipse_projects: []
-project_type: success
-summary: "OpenCert is a customizable safety assurance and certification tool environment."
----
-OpenCert is a customizable safety assurance and certification tool environment integrated into existing manufacturers’ development and safety assurance processes and tooling.
-=======
 funding_bodies: ["ecsel"]
 eclipse_projects: ["polarsys.opencert"]
 project_type: success
@@ -57,4 +49,3 @@ This project was running from April 2016 to March 2019.
 * Thales Italia SpA - Italy
 * SP Sveriges Tekniska Forskningsinstitut-  Sweden
 * Comentor AB - Sweden
->>>>>>> 51aa184 Updated some project descriptions #1

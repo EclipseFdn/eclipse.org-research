@@ -8,14 +8,6 @@ facebook: ""
 linkedin: "https://www.linkedin.com/groups/13579932"
 twitter: "https://twitter.com/Brain_IoT"
 youtube: "https://www.youtube.com/channel/UCuft33LBDs54oOcR06tDBxw"
-<<<<<<< Upstream, based on origin/phkrief/updates
-funding_bodies: []
-eclipse_projects: []
-project_type: running
-summary: "IoT architectures can built dynamically by combining and federating a distributed set of IoT services, IoT platforms and other enabling functionalities."
----
-BRAIN-IoT looks at heterogeneous IoT scenarios where instances of IoT architectures can be built dynamically combining and federating a distributed set of IoT services, IoT platforms and other enabling functionalities made available in marketplaces and accessible by means of open and standard IoT APIs and protocols.
-=======
 funding_bodies: ["horizon2020"]
 eclipse_projects: []
 project_type: running
@@ -42,4 +34,3 @@ This project is running from January 2018 - December 2020.
 * CASSIDIAN CYBERSECURITY SAS - France
 * ROBOTNIK AUTOMATION SLL - Spain
 * EMPRESA MUNICIPAL DE AGUAS DE LA CORUNA SA - Spain
->>>>>>> 51aa184 Updated some project descriptions #1
