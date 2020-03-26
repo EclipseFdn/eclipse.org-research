@@ -42,3 +42,4 @@ This project was running from January 2016 to December 2018.
 * TU Graz - Austria
 * INRIA - France
 * EUROTECH SPA - Italy
+* IoTango S.A. - United States
