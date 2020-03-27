@@ -2,7 +2,7 @@
 title: "GEMOC Studio"
 date: 2020-03-12T09:08:10-04:00
 logo: "/images/research/gemoc_studio.png"
-tags: ["Modeling", "Tool"]
+tags: ["Modeling"]
 homepage: "http://gemoc.org/studio.html"
 facebook: ""
 linkedin: ""
@@ -10,7 +10,7 @@ twitter: "https://twitter.com/gemocinitiative"
 youtube: ""
 funding_bodies: []
 eclipse_projects: ["modeling.gemoc"]
-project_type: friend
+project_type: success
 summary: "GEMOC Studio offers a framework for designing and integrating EMF-based modeling languages."
 ---
 The Eclipse GEMOC Studio offers a framework for designing and integrating EMF-based modeling languages. The framework provides a generic interface to plug in different execution engines associated to their specific metalanguages used to define the discrete-event operational semantics, and the behavioral coordination, of DSLs. It also integrates generic runtime services that are shared among the approaches used to implement the execution semantics, such as graphical animation or omniscient debugging.
