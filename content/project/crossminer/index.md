@@ -58,4 +58,3 @@ This project was running from January 2017 - December 2019.
 * OW2 CONSORTIUM ASSOCIATION  - France
 * ECLIPSE FOUNDATION EUROPE GMBH - Germany
 * CASTALIA SOLUTIONS - France
->>>>>>> 51aa184 Updated some project descriptions #1
