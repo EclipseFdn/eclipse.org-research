@@ -32,12 +32,13 @@ The developer context is used as query sent to the knowledge base that answers w
 Additionally, Eclipse SCAVA provide the means to simplify the development of bespoke analysis and knowledge extraction tools by contributing a framework that will shield engineers from technological issues and allow them to concentrate on the core analysis tasks instead.
 
 # USEFUL LINKS
-* EU CROSSMINER <strong>home project</strong>: http://www.crossminer.org<p/>
+* EU CROSSMINER **home project**: http://www.crossminer.org  
 
-* Eclipse Scava <strong>code repository</strong>: https://github.com/eclipse-researchlabs/scava (*)
-* Eclipse Scava <strong>deployment repository</strong>: https://github.com/eclipse-researchlabs/scava-deployment (*)
-* Eclipse Scava <strong>documentation repository</strong>: https://github.com/eclipse-researchlabs/scava-docs (*)
-* Eclipse Scava <strong>datasets</strong> - Clone: https://github.com/eclipse-scava/scava-datasets.git
+
+* Eclipse Scava **code repository**: https://github.com/eclipse-researchlabs/scava (*)
+* Eclipse Scava **deployment repository**: https://github.com/eclipse-researchlabs/scava-deployment (*)
+* Eclipse Scava **documentation repository**: https://github.com/eclipse-researchlabs/scava-docs (*)
+* Eclipse Scava **datasets** - Clone: https://github.com/eclipse-scava/scava-datasets.git
 
 
 (*) Repositories under the umbrella of Eclipse Research Labs have not (yet) completed the Eclipse IP review to ensure they provide sufficient IP terms to be considered "business-friendly" for use in a product.
