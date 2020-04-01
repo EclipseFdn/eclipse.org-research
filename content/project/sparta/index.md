@@ -48,8 +48,8 @@ In sharing experiences and excellence, challenges and capabilities, SPARTA makes
 <tr>
 	<td><img src="steady.png"></td>
 	<td><h1>Eclipse Steady (Incubator Project)</h1>
-		<strong>Discover, assess and mitigate known vulnerabilities<br/> 
-		in Open-source Software Libraries</strong>
+		**Discover, assess and mitigate known vulnerabilities<br/> 
+		in Open-source Software Libraries**
 	</td>
 </tr>
 </table>
