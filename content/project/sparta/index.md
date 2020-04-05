@@ -10,7 +10,7 @@ twitter: ""
 youtube: ""
 funding_bodies: ["horizon2020"]
 eclipse_projects: ["technology.steady"]
-project_type: success
+project_type: running
 summary: "Re-imagining the way cybersecurity research, innovation, and training are performed in Europe"
 ---
 Cybersecurity is an urgent and major societal challenge. Highly correlated with the digitalization of our societies, cyberthreats have an increasing impact on our lives. It is therefore essential to ensure digital security and strategic autonomy of the EU by strengthening leading cybersecurity capacities. This challenge will require the coordination of Europe’s best competences, towards common research and innovation goals. 
