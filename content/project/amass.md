@@ -3,11 +3,11 @@ title: "Amass"
 date: 2020-03-12T09:22:25-04:00
 logo: "/images/research/amass.png"
 tags: ["Modeling","Certification"]
-homepage: ""
+homepage: "https://www.amass-ecsel.eu/"
 facebook: ""
-linkedin: ""
-twitter: ""
-youtube: ""
+linkedin: "https://www.linkedin.com/groups/3807241/"
+twitter: "https://twitter.com/AMASSproject"
+youtube: "https://www.youtube.com/channel/UCw_D0l5sDgysEphi6tzzDyw"
 funding_bodies: ["ecsel"]
 eclipse_projects: ["polarsys.opencert"]
 project_type: success

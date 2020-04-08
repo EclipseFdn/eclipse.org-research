@@ -43,17 +43,9 @@ In sharing experiences and excellence, challenges and capabilities, SPARTA makes
 </table>
 </center>
 <p/>
-<center>
-<table>
-<tr>
-	<td><img src="steady.png"></td>
-	<td><h1>Eclipse Steady (Incubator Project)</h1>
-		**Discover, assess and mitigate known vulnerabilities<br/> 
-		in Open-source Software Libraries**
-	</td>
-</tr>
-</table>
-</center>
+
+# Eclipse Steady (Incubator Project)
+**Discover, assess and mitigate known vulnerabilities in Open-source Software Libraries**
 
 The use of open-source software (OSS) is ever-increasing, and so is the number of open-source vulnerabilities being discovered and publicly disclosed. The risks that come from the reuse of community-developed libraries were mercilessly demonstrated by the (in)famous Equifax data breach where personal and financial data of millions of US citizens were stolen. The root cause of the Equifax data breach lies on a web server application which was depending on an old, vulnerable OSS library.
 Nowadays several tools exist to detect whether vulnerable libraries are among application dependencies, however most of them rely on meta-data for mapping libraries to vulnerabilities. A team of security researchers at SAP has developed a different approach based on the detection of vulnerable code rather than vulnerable libraries (see <https://arxiv.org/pdf/1806.05893.pdf>).

@@ -3,10 +3,10 @@ title: "CROSSMINER"
 date: 2020-03-12T09:24:17-04:00
 logo: "/images/research/crossminer.png"
 tags: []
-homepage: ""
+homepage: "https://www.crossminer.org/"
 facebook: ""
 linkedin: ""
-twitter: ""
+twitter: "http://www.twitter.com/crossminer"
 youtube: ""
 funding_bodies: ["horizon2020"]
 eclipse_projects: ["technology.scava"]
@@ -20,7 +20,8 @@ Implementing a new system by mining open source software (OSS) repositories help
 Eclipse SCAVA is an open-source platform for automatically analysing the source code, bug tracking systems, and communication channels of open source software projects. Eclipse SCAVA provides techniques and tools for extracting knowledge from existing open source components and use such knowledge to support the selection and reuse of existing software to develop new systems, and to provide developers with real-time recommendations that are relevant to the current development task.
 
 As shown below Eclipse SCAVA is conceptually in between the developer and all the different and heterogenous data sources that one needs to interact with when understanding and using existing open source components.
-<center><img src="crossminer.png" width="400"></center>
+{{< figure src="crossminer.png" alt="CROSSMINER Architecture" class="vertical-align" width="600">}}
+
 
 The developer context is used as query sent to the knowledge base that answers with recommendations that are relevant with respect to the developer contexts. Machine learning techniques are used to infer knowledge underpinning the creation of relevant real-time recommendations. The knowledge base infers more insights from raw data produced by the different mining tools, which are the following:
 
