@@ -14,6 +14,8 @@ layout: single
 header_wrapper_class: "header-default-bg-img"
 ---
 
+This is a test
+
 {{< home-section-header >}}
 
 {{< home-section-info >}}
