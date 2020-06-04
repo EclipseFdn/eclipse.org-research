@@ -25,3 +25,5 @@ header_wrapper_class: "header-default-bg-img"
 {{< home-section-projects >}}
 
 {{< home-section-contact >}}
+
+My text is better than yours, Gael!
