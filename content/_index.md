@@ -26,4 +26,4 @@ header_wrapper_class: "header-default-bg-img"
 
 {{< home-section-contact >}}
 
-My text is better than yours, Gael!
+Don't touch my text!!!
