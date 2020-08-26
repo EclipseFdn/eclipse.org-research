@@ -14,6 +14,7 @@ show_featured_footer: false
 layout: single
 header_wrapper_class: "header-default-bg-img small-jumbotron-subtitle"
 #links: [[href: "https://events.eclipse.org/2020/sam-iot/sam-iot-cfp.pdf", text: "Download call for papers"]]
+header_wrapper_class: "header-default-bg-img"
 ---
 
 {{< home-section-header >}}
