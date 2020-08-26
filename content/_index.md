@@ -11,7 +11,8 @@ container: "container-fluid"
 show_featured_story: false
 show_featured_footer: false
 layout: single
-header_wrapper_class: "header-default-bg-img"
+#links: [[href: "https://events.eclipse.org/2020/sam-iot/sam-iot-cfp.pdf", text: "Download call for papers"]]
+header_wrapper_class: "header-default-bg-img small-jumbotron-subtitle"
 ---
 
 {{< home-section-header >}}
