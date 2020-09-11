@@ -29,6 +29,8 @@ The Arrowhead Framework architecture has already been applied in:
 * Programmable logic controllers (PLCs)
 * IoT solutions, such as building energy management, industrial gateways for smart city applications, and intelligent rock bolts for mining safety
 
+Arrowhead Tools is running from May 2019 - July 2022.
+
 # Eclipse Arrowhead
 The [Eclipse Arrowhead] (https://projects.eclipse.org/projects/iot.arrowhead) project was created to provide long-term governance and promotion of the Arrowhead Framework, a Service Oriented Architecture (SOA) with a reference implementation for Internet of Things (IoT) interoperability that was originally developed as part of the Arrowhead Tools European research project .
 
