@@ -44,6 +44,9 @@ In sharing experiences and excellence, challenges and capabilities, SPARTA makes
 </center>
 <p/>
 
+### Eclipse OpenCert 
+[Eclipse OpenCert] (https://www.eclipse.org/opencert/) is an open product and process assurance/certification management tool to support the compliance assessment and certification of Cyber-Physical Systems (CPS) spanning the safety and security. The OpenCert tool will be applied in SPARTA, in particular within the CAPE Program, to support the Safety and Security compliance assessment and certification of the Platooning vertical, helping the user in the whole assurance process of Connected and Cooperative Car Cybersecurity scenario. OpenCert will support knowledge management about those standards that the platooning has to be compliant with (ISO 26262 and SAE J3061), it will assist on the development of assurance cases, evidence management and assurance process management, and will support the global monitoring of the compliance with the standards and regulations mentioned before.
+
 # Eclipse Steady (Incubator Project)
 **Discover, assess and mitigate known vulnerabilities in Open-source Software Libraries**
 
