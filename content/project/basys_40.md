@@ -22,7 +22,7 @@ By providing common Industrie 4.0 components and an extendable SDK the platform 
 
 Eclipse BaSyx realizes the following technologies implementing central pillars of Industrie 4.0 production architectures:
 
-* The **Virtual Automation Bus** enables corss-network and cross-protocol peer-to-peer communication between manufacturing machines (shop floor) and the IT.
+* The **Virtual Automation Bus** enables cross-network and cross-protocol peer-to-peer communication between manufacturing machines (shop floor) and the IT.
 
 * **Asset Administration Shells** are digital representatives of production assets, i.e., their digital twins. These assets may be physical or non-physical in nature. The asset administration
 shell of an asset contains sub-models providing, for example, its interface as well as status and live data.
