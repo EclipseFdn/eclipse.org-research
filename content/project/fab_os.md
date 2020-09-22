@@ -36,7 +36,7 @@ The FabOS project aims to follow the established principles of open source innov
 ### Eclipse BaSyx
 Open source draws its strength from being easy to integrate and reuse. Consequently, FabOS is not starting from scratch, but integrates and adapts existing solutions.
 
-For example, [Eclipse BaSyx] (https://www.eclipse.org/basyx/) will be an integral part of the FabOS ecosystem. Eclipse BaSyx is developed as part of [BaSys 4.2] (https://www.basys40.de/), the continuation of the [BaSys 4.0] (https://www.basys40.de/) research project. It implements key Industry 4.0 concepts, such as the [Asset Administration Shell] (https://www.plattform-i40.de/PI40/Redaktion/EN/Downloads/Publikation/Details-of-the-Asset-Administration-Shell-Part1.html), and provides off-the-shelf components that enable quick setup of an Industry 4.0 infrastructure.
+For example, [Eclipse BaSyx](https://www.eclipse.org/basyx/) will be an integral part of the FabOS ecosystem. Eclipse BaSyx is developed as part of [BaSys 4.2](https://www.basys40.de/), the continuation of the [BaSys 4.0](https://www.basys40.de/) research project. It implements key Industry 4.0 concepts, such as the [Asset Administration Shell](https://www.plattform-i40.de/PI40/Redaktion/EN/Downloads/Publikation/Details-of-the-Asset-Administration-Shell-Part1.html), and provides off-the-shelf components that enable quick setup of an Industry 4.0 infrastructure.
 
 The FabOS project team also plans to integrate open source solutions from other domains, such as edge computing. That means FabOS will provide an open source infrastructure that is built on other open source components.
 

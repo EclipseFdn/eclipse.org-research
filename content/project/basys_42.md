@@ -13,7 +13,7 @@ eclipse_projects: ["technology.basyx"]
 project_type: running
 summary: "Digitalizes manufacturing processes and integrates the devices on the shopfloor with a company‘s IT."
 ---
-BaSys 4.2 with its open-source reference implementation [Eclipse BaSyx] (https://www.eclipse.org/basyx/) digitalizes manufacturing processes and integrates the devices on the shopfloor with a company‘s IT.
+BaSys 4.2 with its open-source reference implementation [Eclipse BaSyx](https://www.eclipse.org/basyx/) digitalizes manufacturing processes and integrates the devices on the shopfloor with a company‘s IT.
 
 Dynamic markets, documentation obligations, lot size 1: Production is changing, and companies that keep up with this change, even embracing Industrie 4.0, will have clear competitive advantages in the future. But the challenges of modern production can no longer be mastered without digitalizing the manufacturing processes.
 
@@ -24,7 +24,7 @@ BaSys 4.2 implements a service-based production in which each product is describ
 The project is running from July 2019 - June 2022 and is coordinated by Fraunhofer IESE.
 
 # Eclipse BaSyx
-The [Eclipse BaSyx] (https://www.eclipse.org/basyx/) project is the open source result of the German research projects BaSys 4.0 and BaSys 4.2, which are funded by the Ministry for Education and Research.  Eclipse BaSyx is the open source platform for the next generation automation. As a reference technology platform, the BaSyx project enables large and small industries, research institutes, academia, and interested persons, to participate in the fourth industrial revolution.
+The [Eclipse BaSyx](https://www.eclipse.org/basyx/) project is the open source result of the German research projects BaSys 4.0 and BaSys 4.2, which are funded by the Ministry for Education and Research.  Eclipse BaSyx is the open source platform for the next generation automation. As a reference technology platform, the BaSyx project enables large and small industries, research institutes, academia, and interested persons, to participate in the fourth industrial revolution.
 
 By providing common Industrie 4.0 components and an extendable SDK the platform accelerates the development of Industrie 4.0 solutions. The Eclipse BaSyx platform addresses challenges like changeable production to enable individualized goods, exploiting big data analytics and connecting heterogenous devices and systems while minimizing downtime and other associated costs. 
 
