@@ -1,5 +1,5 @@
 ---
-title: "FabOS - An Open, Distributed, Real-Time Capable, and Secure Operating System for Production"
+title: "FabOS"
 date: 2020-03-11T14:40:39-04:00
 logo: "/images/research/fabos.png"
 tags: ["Standard", "Industry 4.0"]
