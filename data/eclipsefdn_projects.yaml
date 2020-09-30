@@ -10,6 +10,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -28,6 +29,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -88,6 +90,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -112,6 +115,7 @@
       - 
         url: "https://github.com/eclipse/cft"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -256,6 +260,7 @@
       - 
         url: "https://github.com/eclipse/che-release"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -518,6 +523,7 @@
       - 
         url: "https://github.com/eclipse/che-che4z-explorer-for-endevor"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -645,6 +651,7 @@
       - 
         url: "https://github.com/eclipse/codewind-operator"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "cbot"
@@ -739,6 +746,7 @@
       - 
         url: "https://github.com/eclipse/dirigible-samples"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -892,6 +900,7 @@
       - 
         url: "https://github.com/eclipse-emfcloud/ecore-glsp"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "ndoschek"
@@ -948,6 +957,7 @@
       - 
         url: "https://github.com/eclipse/flux"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -978,6 +988,7 @@
       - 
         url: "https://github.com/eclipse-glsp/glsp-examples"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "ndoschek"
@@ -1034,6 +1045,7 @@
       - 
         url: "https://github.com/eclipse/jkube"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -1086,6 +1098,7 @@
       - 
         url: "https://github.com/eclipse/open-vsx.org"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -1138,6 +1151,7 @@
       - 
         url: "https://github.com/eclipse/orion"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -1354,6 +1368,7 @@
       - 
         url: "https://github.com/eclipse/sprotty-vscode"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -1430,6 +1445,7 @@
       - 
         url: "https://github.com/eclipse-theia/theia-example"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -1546,6 +1562,9 @@
     state: "Regular"
     releases: 
       - 
+        name: "1.6.0"
+        url: "https://projects.eclipse.org/projects/ecd.theia/releases/1.6.0"
+      - 
         name: "1.5.0"
         url: "https://projects.eclipse.org/projects/ecd.theia/releases/1.5.0"
       - 
@@ -1595,6 +1614,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -1805,6 +1825,27 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/e4/eclipse.platform.runtime.e4.git"
+      - 
+        url: "/gitroot/e4/eclipse.platform.ui.compat.git"
+      - 
+        url: "/gitroot/e4/eclipse.platform.ui.e4.git"
+      - 
+        url: "/gitroot/e4/org.eclipse.e4.deeplink.git"
+      - 
+        url: "/gitroot/e4/org.eclipse.e4.installer.git"
+      - 
+        url: "/gitroot/e4/org.eclipse.e4.releng.git"
+      - 
+        url: "/gitroot/e4/org.eclipse.e4.search.git"
+      - 
+        url: "/gitroot/e4/org.eclipse.e4.tools.git"
+      - 
+        url: "/gitroot/e4/org.eclipse.e4.ui.git"
+      - 
+        url: "/gitroot/e4/org.eclipse.e4.utils.git"
     contributors: []
     committers: 
       - 
@@ -1949,6 +1990,19 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/equinox/rt.equinox.binaries.git"
+      - 
+        url: "/gitroot/equinox/rt.equinox.bundles.git"
+      - 
+        url: "/gitroot/equinox/rt.equinox.framework.git"
+      - 
+        url: "/gitroot/equinox/rt.equinox.incubator.git"
+      - 
+        url: "/gitroot/equinox/rt.equinox.p2.git"
+      - 
+        url: "/gitroot/equinox/rt.equinox.p2.cudf.git"
     contributors: []
     committers: 
       - 
@@ -2057,6 +2111,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -2075,6 +2130,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -2093,6 +2149,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -2111,6 +2168,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -2129,6 +2187,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.core.binaries.git"
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.core.git"
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.debug.git"
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.git"
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.ui.git"
     contributors: []
     committers: 
       - 
@@ -2219,6 +2288,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.core.git"
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.core.binaries.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2237,6 +2311,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.debug.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2257,6 +2334,7 @@
       - 
         url: "https://github.com/eclipse/eclipse.jdt.ls"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -2329,6 +2407,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jdt/eclipse.jdt.ui.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2347,6 +2428,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/pde/eclipse.pde.ui.git"
+      - 
+        url: "/gitroot/pde/eclipse.pde.incubator.git"
+      - 
+        url: "/gitroot/pde/eclipse.pde.build.git"
     contributors: []
     committers: 
       - 
@@ -2422,6 +2510,29 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/platform/eclipse.platform.common.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.debug.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.releng.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.resources.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.runtime.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.swt.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.team.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.text.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.ua.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.ui.git"
     contributors: []
     committers: 
       - 
@@ -2623,6 +2734,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/platform/eclipse.platform.debug.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2641,6 +2755,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/platform/eclipse.platform.releng.aggregator.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.releng.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2659,6 +2778,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/platform/eclipse.platform.resources.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.team.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2677,6 +2801,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/platform/eclipse.platform.swt.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.swt.binaries.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2752,6 +2881,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -2770,6 +2900,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/platform/eclipse.platform.ua.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2788,6 +2921,19 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/platform/eclipse.platform.runtime.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.ua.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.text.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.images.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.ui.git"
+      - 
+        url: "/gitroot/platform/eclipse.platform.ui.tools.git"
     contributors: []
     committers: []
     project_leads: []
@@ -2810,8 +2956,12 @@
       - 
         url: "https://github.com/eclipse-ee4j/ee4j"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
+      - 
+        username: "sstark88g"
+        url: "https://api.eclipse.org/account/profile/sstark88g"
       - 
         username: "kkazumura"
         url: "https://api.eclipse.org/account/profile/kkazumura"
@@ -2839,6 +2989,68 @@
     state: "Regular"
     releases: []
   - 
+    project_id: "ee4j.authentication"
+    short_project_id: "authentication"
+    name: "Jakarta Authentication"
+    summary: "The Java Authentication Service Provider Interface for Containers (JASPIC) defines a service provider interface (SPI) by which authentication providers that implement message authentication..."
+    url: "https://projects.eclipse.org/projects/ee4j.authentication"
+    website_url: "https://eclipse-ee4j.github.io/authentication/"
+    logo: "https://projects.eclipse.org/sites/default/files/36201228_11.png"
+    tags: []
+    github_repos: 
+      - 
+        url: "https://github.com/eclipse-ee4j/authentication"
+    gitlab_repos: []
+    gerrit_repos: []
+    contributors: []
+    committers: 
+      - 
+        username: "rdebusscher"
+        url: "https://api.eclipse.org/account/profile/rdebusscher"
+      - 
+        username: "ebratt"
+        url: "https://api.eclipse.org/account/profile/ebratt"
+      - 
+        username: "wtiang8p"
+        url: "https://api.eclipse.org/account/profile/wtiang8p"
+      - 
+        username: "areddyx80"
+        url: "https://api.eclipse.org/account/profile/areddyx80"
+      - 
+        username: "atijmse7y"
+        url: "https://api.eclipse.org/account/profile/atijmse7y"
+      - 
+        username: "dkornilov"
+        url: "https://api.eclipse.org/account/profile/dkornilov"
+      - 
+        username: "ttorresxb1"
+        url: "https://api.eclipse.org/account/profile/ttorresxb1"
+      - 
+        username: "jmonteiro3ac"
+        url: "https://api.eclipse.org/account/profile/jmonteiro3ac"
+    project_leads: 
+      - 
+        username: "atijmse7y"
+        url: "https://api.eclipse.org/account/profile/atijmse7y"
+    working_groups: 
+      - 
+        name: "Jakarta EE"
+        id: "jakarta-ee"
+    spec_project_working_group: 
+      name: "Jakarta EE"
+      id: "jakarta-ee"
+    state: "Incubating"
+    releases: 
+      - 
+        name: "2.0.0"
+        url: "https://projects.eclipse.org/projects/ee4j.jaspic/releases/2.0.0"
+      - 
+        name: "1.1.3"
+        url: "https://projects.eclipse.org/projects/ee4j.jaspic/releases/1.1.3"
+      - 
+        name: "1.1.2"
+        url: "https://projects.eclipse.org/projects/ee4j.jaspic/releases/1.1.2"
+  - 
     project_id: "ee4j.batch"
     short_project_id: "batch"
     name: "Jakarta Batch"
@@ -2853,6 +3065,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/batch-tck"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -2896,8 +3109,8 @@
     state: "Incubating"
     releases: 
       - 
-        name: "2.0"
-        url: "https://projects.eclipse.org/projects/ee4j.batch/releases/2.0"
+        name: "2.0.0"
+        url: "https://projects.eclipse.org/projects/ee4j.batch/releases/2.0.0"
       - 
         name: "1.0"
         url: "https://projects.eclipse.org/projects/ee4j.batch/releases/1.0"
@@ -2918,6 +3131,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/beanvalidation-tck"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -2979,6 +3193,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/common-annotations-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3040,6 +3255,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/cargotracker"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3080,6 +3296,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/cdi-tck"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3140,6 +3357,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/concurrency-ri"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3222,6 +3440,29 @@
       - 
         url: "https://github.com/eclipse-ee4j/eclipselink-examples"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/eclipselink/eclipselink.releng.git"
+      - 
+        url: "/gitroot/eclipselink/eclipselink.runtime.git"
+      - 
+        url: "/gitroot/eclipselink/eclipselink.utils.temp.git"
+      - 
+        url: "/gitroot/eclipselink/examples.git"
+      - 
+        url: "/gitroot/eclipselink/examples/mysports.git"
+      - 
+        url: "/gitroot/eclipselink/examples/nosql.git"
+      - 
+        url: "/gitroot/eclipselink/examples/performance.git"
+      - 
+        url: "/gitroot/eclipselink/examples/temporal.git"
+      - 
+        url: "/gitroot/eclipselink/incubator.git"
+      - 
+        url: "/gitroot/eclipselink/javax.persistence.git"
+      - 
+        url: "/gitroot/eclipselink/oracleddlparser.git"
     contributors: []
     committers: 
       - 
@@ -3458,6 +3699,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/ejb-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3525,6 +3767,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/el-ri"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3585,6 +3828,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/security-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3667,6 +3911,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/faces-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3778,6 +4023,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/glassfish-docs"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -3905,8 +4151,12 @@
       - 
         url: "https://github.com/eclipse-ee4j/grizzly-ahc"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
+      - 
+        username: "gguptael7"
+        url: "https://api.eclipse.org/account/profile/gguptael7"
       - 
         username: "mgillik6"
         url: "https://api.eclipse.org/account/profile/mgillik6"
@@ -3970,6 +4220,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/interceptor-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4049,6 +4300,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/authorization"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4115,6 +4367,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jaf-tck"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4167,6 +4420,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jakartaee-examples"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4212,6 +4466,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jakartaee-renames"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4312,6 +4567,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/management-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4395,6 +4651,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jakartaee-tck-tools"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4466,67 +4723,6 @@
     state: "Incubating"
     releases: []
   - 
-    project_id: "ee4j.jaspic"
-    short_project_id: "jaspic"
-    name: "Jakarta Authentication"
-    summary: "The Java Authentication Service Provider Interface for Containers (JASPIC) defines a service provider interface (SPI) by which authentication providers that implement message authentication..."
-    url: "https://projects.eclipse.org/projects/ee4j.jaspic"
-    website_url: "https://eclipse-ee4j.github.io/authentication/"
-    logo: "https://projects.eclipse.org/sites/default/files/36201228_11.png"
-    tags: []
-    github_repos: 
-      - 
-        url: "https://github.com/eclipse-ee4j/authentication"
-    gitlab_repos: []
-    contributors: []
-    committers: 
-      - 
-        username: "rdebusscher"
-        url: "https://api.eclipse.org/account/profile/rdebusscher"
-      - 
-        username: "ebratt"
-        url: "https://api.eclipse.org/account/profile/ebratt"
-      - 
-        username: "wtiang8p"
-        url: "https://api.eclipse.org/account/profile/wtiang8p"
-      - 
-        username: "areddyx80"
-        url: "https://api.eclipse.org/account/profile/areddyx80"
-      - 
-        username: "atijmse7y"
-        url: "https://api.eclipse.org/account/profile/atijmse7y"
-      - 
-        username: "dkornilov"
-        url: "https://api.eclipse.org/account/profile/dkornilov"
-      - 
-        username: "ttorresxb1"
-        url: "https://api.eclipse.org/account/profile/ttorresxb1"
-      - 
-        username: "jmonteiro3ac"
-        url: "https://api.eclipse.org/account/profile/jmonteiro3ac"
-    project_leads: 
-      - 
-        username: "atijmse7y"
-        url: "https://api.eclipse.org/account/profile/atijmse7y"
-    working_groups: 
-      - 
-        name: "Jakarta EE"
-        id: "jakarta-ee"
-    spec_project_working_group: 
-      name: "Jakarta EE"
-      id: "jakarta-ee"
-    state: "Incubating"
-    releases: 
-      - 
-        name: "2.0.0"
-        url: "https://projects.eclipse.org/projects/ee4j.jaspic/releases/2.0.0"
-      - 
-        name: "1.1.3"
-        url: "https://projects.eclipse.org/projects/ee4j.jaspic/releases/1.1.3"
-      - 
-        name: "1.1.2"
-        url: "https://projects.eclipse.org/projects/ee4j.jaspic/releases/1.1.2"
-  - 
     project_id: "ee4j.jaxb"
     short_project_id: "jaxb"
     name: "Jakarta XML Binding"
@@ -4541,6 +4737,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jaxb-tck"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4631,6 +4828,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jaxb-stax-ex"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4697,6 +4895,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jaxrs-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4813,6 +5012,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jws-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4877,17 +5077,17 @@
     state: "Incubating"
     releases: 
       - 
-        name: "2.0 (Jakarta SOAP with Attachments)"
-        url: "https://projects.eclipse.org/projects/ee4j.jaxws/releases/2.0-jakarta-soap-attachments"
-      - 
-        name: "2.0 (Enterprise Web Services)"
-        url: "https://projects.eclipse.org/projects/ee4j.jaxws/releases/2.0-enterprise-web-services"
-      - 
         name: "3.0 (Jakarta XML Web Services)"
         url: "https://projects.eclipse.org/projects/ee4j.jaxws/releases/3.0-jakarta-xml-web-services"
       - 
         name: "3.0 (Jakarta Web Services Metadata)"
         url: "https://projects.eclipse.org/projects/ee4j.jaxws/releases/3.0-jakarta-web-services-metadata"
+      - 
+        name: "2.0 (Enterprise Web Services)"
+        url: "https://projects.eclipse.org/projects/ee4j.jaxws/releases/2.0-enterprise-web-services"
+      - 
+        name: "2.0 (Jakarta SOAP with Attachments)"
+        url: "https://projects.eclipse.org/projects/ee4j.jaxws/releases/2.0-jakarta-soap-attachments"
       - 
         name: "2.3.3"
         url: "https://projects.eclipse.org/projects/ee4j.jaxws/releases/2.3.3"
@@ -4907,6 +5107,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jca-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -4987,6 +5188,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jersey.github.io"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5061,6 +5263,9 @@
     state: "Incubating"
     releases: 
       - 
+        name: "2.32"
+        url: "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.32"
+      - 
         name: "3.0.0-M6"
         url: "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.0-m6"
       - 
@@ -5101,6 +5306,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jms-propsals"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5186,6 +5392,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jpa-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5250,6 +5457,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jsonb-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5335,6 +5543,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jsonp"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5429,6 +5638,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jsp-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5511,6 +5721,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jstl-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5578,6 +5789,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jta-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5654,6 +5866,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/krazo"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5714,6 +5927,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/mail-spec"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5810,6 +6024,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/jaxr-ri"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5863,7 +6078,7 @@
     project_id: "ee4j.mojarra"
     short_project_id: "mojarra"
     name: "Eclipse Mojarra"
-    summary: "Eclipse Mojarra is an implementation for the JavaServer Faces specification (JSR-372). JavaServer Faces (JSF) is a Java specification for building component-based user interfaces for web..."
+    summary: "Eclipse Mojarra is an implementation for the Jakarta Faces specification. Jakarta Server Faces defines an MVC framework for building user interfaces for web applications, including UI components..."
     url: "https://projects.eclipse.org/projects/ee4j.mojarra"
     website_url: ""
     logo: ""
@@ -5874,6 +6089,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/mojarra-jsf-extensions"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5924,6 +6140,9 @@
     state: "Incubating"
     releases: 
       - 
+        name: "3.0.0"
+        url: "https://projects.eclipse.org/projects/ee4j.mojarra/releases/3.0.0"
+      - 
         name: "2.3.9"
         url: "https://projects.eclipse.org/projects/ee4j.mojarra/releases/2.3.9"
   - 
@@ -5941,6 +6160,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/mvc-tck"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -5991,6 +6211,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/nosql"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6043,6 +6264,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/openmq"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6108,6 +6330,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/orb-gmbal-pfl"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6158,6 +6381,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/servlet-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6234,6 +6458,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/soteria"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6287,6 +6512,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/starter"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6327,6 +6553,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/tyrus-project.github.io"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6398,6 +6625,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/wasp"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6460,6 +6688,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/websocket-api"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6548,6 +6777,7 @@
       - 
         url: "https://github.com/eclipse-ee4j/yasson"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6590,6 +6820,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -6612,6 +6843,13 @@
       - "PLC"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/4diac/org.eclipse.4diac.examples.git"
+      - 
+        url: "/gitroot/4diac/org.eclipse.4diac.forte.git"
+      - 
+        url: "/gitroot/4diac/org.eclipse.4diac.ide.git"
     contributors: []
     committers: 
       - 
@@ -6646,6 +6884,9 @@
     spec_project_working_group: []
     state: "Incubating"
     releases: 
+      - 
+        name: "1.14.0"
+        url: "https://projects.eclipse.org/projects/iot.4diac/releases/1.14.0"
       - 
         name: "1.13.0"
         url: "https://projects.eclipse.org/projects/iot.4diac/releases/1.13.0"
@@ -6699,6 +6940,9 @@
       - 
         url: "https://github.com/eclipse-agail/agile-dummy-protocol"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/agail/agail.git"
     contributors: []
     committers: 
       - 
@@ -6735,6 +6979,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6784,6 +7029,7 @@
       - 
         url: "https://github.com/eclipse/californium.core"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6861,6 +7107,7 @@
       - 
         url: "https://github.com/eclipse/concierge"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6901,6 +7148,7 @@
       - 
         url: "https://github.com/eclipse-cyclonedds/cyclonedds-cxx"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -6959,6 +7207,7 @@
       - 
         url: "https://github.com/eclipse/ditto-clients-golang"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7049,6 +7298,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/duttile/duttile.git"
     contributors: []
     committers: 
       - 
@@ -7084,6 +7336,29 @@
       - 
         url: "https://github.com/eclipse/neoscada"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.base.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.chart.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.core.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.deploy.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.external.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.hmi.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.ide.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.protocols.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.releng.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.samples.git"
+      - 
+        url: "/gitroot/eclipsescada/org.eclipse.scada.utils.git"
     contributors: []
     committers: 
       - 
@@ -7128,6 +7403,7 @@
       - 
         url: "https://github.com/eclipse/editdor"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7172,6 +7448,7 @@
       - 
         url: "https://github.com/eclipse/edje"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -7207,6 +7484,7 @@
       - 
         url: "https://github.com/eclipse-embed-cdt/eclipse-embed-cdt.github.io"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "lionescu"
@@ -7226,6 +7504,9 @@
     spec_project_working_group: []
     state: "Incubating"
     releases: 
+      - 
+        name: "5.1.2"
+        url: "https://projects.eclipse.org/projects/iot.embed-cdt/releases/5.1.2"
       - 
         name: "5.1.1"
         url: "https://projects.eclipse.org/projects/iot.embed-cdt/releases/5.1.1"
@@ -7276,6 +7557,7 @@
       - 
         url: "https://github.com/eclipse-fog05/website"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7332,6 +7614,7 @@
       - 
         url: "https://github.com/eclipse/hawkbit-clients-golang"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7380,6 +7663,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7428,6 +7712,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -7454,6 +7739,7 @@
       - 
         url: "https://github.com/eclipse/hono-extras"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7570,6 +7856,7 @@
       - 
         url: "https://github.com/eclipse/ignite"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7663,6 +7950,7 @@
       - 
         url: "https://github.com/eclipse-iofog/iofog-java-sdk"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7725,6 +8013,7 @@
       - 
         url: "https://github.com/eclipse/kapua"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7859,6 +8148,7 @@
       - 
         url: "https://github.com/eclipse/keti"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -7934,6 +8224,7 @@
       - 
         url: "https://github.com/eclipse/keyple-website"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8004,6 +8295,7 @@
       - 
         url: "https://github.com/eclipse/kiso-testing"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8052,6 +8344,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -8088,6 +8381,7 @@
       - 
         url: "https://github.com/eclipse/kuksa.val"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8162,6 +8456,7 @@
       - 
         url: "https://github.com/eclipse/kura"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8310,6 +8605,7 @@
       - 
         url: "https://github.com/eclipse/leshan.osgi"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8355,6 +8651,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mihini/org.eclipse.mihini.samples.git"
+      - 
+        url: "/gitroot/mihini/org.eclipse.mihini.git"
     contributors: []
     committers: []
     project_leads: []
@@ -8381,6 +8682,7 @@
       - 
         url: "https://github.com/eclipse/milo"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8400,6 +8702,9 @@
     spec_project_working_group: []
     state: "Incubating"
     releases: 
+      - 
+        name: "0.5.0"
+        url: "https://projects.eclipse.org/projects/iot.milo/releases/0.5.0"
       - 
         name: "0.4.0"
         url: "https://projects.eclipse.org/projects/iot.milo/releases/0.4.0"
@@ -8422,6 +8727,7 @@
       - 
         url: "https://github.com/eclipse/mita"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8467,6 +8773,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -8496,6 +8803,7 @@
       - 
         url: "https://github.com/eclipse/mosquitto"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8639,6 +8947,7 @@
       - 
         url: "https://github.com/eclipse/mraa"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8671,6 +8980,9 @@
     state: "Incubating"
     releases: 
       - 
+        name: "2.2.0"
+        url: "https://projects.eclipse.org/projects/iot.mraa/releases/2.2.0"
+      - 
         name: "2.1.0"
         url: "https://projects.eclipse.org/projects/iot.mraa/releases/2.1.0"
   - 
@@ -8691,6 +9003,9 @@
       - "OneM2M"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/om2m/org.eclipse.om2m.git"
     contributors: []
     committers: 
       - 
@@ -8738,6 +9053,7 @@
       - 
         url: "https://github.com/eclipse/oneofour"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8772,6 +9088,7 @@
       - 
         url: "https://github.com/eclipse/packages-c2e-provisioning"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -8859,8 +9176,22 @@
       - 
         url: "https://github.com/eclipse/paho.golang"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/paho/org.eclipse.paho.apps.git"
+      - 
+        url: "/gitroot/paho/org.eclipse.paho.esf.git"
+      - 
+        url: "/gitroot/paho/org.eclipse.paho.mqtt-sn.apps.git"
+      - 
+        url: "/gitroot/paho/org.eclipse.paho.mqtt.lua.git"
+      - 
+        url: "/gitroot/paho/org.eclipse.paho.mqtt.objc.git"
     contributors: []
     committers: 
+      - 
+        username: "mbrittan"
+        url: "https://api.eclipse.org/account/profile/mbrittan"
       - 
         username: "rdasgupta"
         url: "https://api.eclipse.org/account/profile/rdasgupta"
@@ -8940,6 +9271,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/paho.incubator/org.eclipse.paho.mqtt.lua.git"
+      - 
+        url: "/gitroot/paho.incubator/smidge.git"
     contributors: []
     committers: 
       - 
@@ -8970,6 +9306,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9005,6 +9342,7 @@
       - 
         url: "https://github.com/eclipse/ponte"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9031,6 +9369,7 @@
       - 
         url: "https://github.com/eclipse/risev2g"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -9057,6 +9396,7 @@
       - 
         url: "https://github.com/eclipse/smarthome-designer"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -9092,6 +9432,7 @@
       - 
         url: "https://github.com/eclipse/sparkplug"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9160,6 +9501,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9201,6 +9543,7 @@
       - 
         url: "https://github.com/eclipse/tahu"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9242,6 +9585,7 @@
       - 
         url: "https://github.com/eclipse/tangleid"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9280,6 +9624,7 @@
       - 
         url: "https://github.com/eclipse/tanglemktplaces"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9329,6 +9674,7 @@
       - 
         url: "https://github.com/eclipse/thingweb.node-wot"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9384,6 +9730,7 @@
       - 
         url: "https://github.com/eclipse/tiaki-java"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -9407,6 +9754,9 @@
       - 
         url: "https://github.com/eclipse/tinydtls"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tinydtls/org.eclipse.tinydtls.git"
     contributors: []
     committers: 
       - 
@@ -9446,6 +9796,7 @@
       - 
         url: "https://github.com/eclipse/unide.python"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9490,6 +9841,7 @@
       - 
         url: "https://github.com/eclipse/upm"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9532,6 +9884,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9564,6 +9917,7 @@
       - 
         url: "https://github.com/eclipse/vorto"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9620,6 +9974,7 @@
       - 
         url: "https://github.com/eclipse/wakaama"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9663,6 +10018,7 @@
       - 
         url: "https://github.com/eclipse/whiskers.js"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -9684,6 +10040,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -9721,7 +10078,10 @@
         url: "https://github.com/eclipse-zenoh/zenoh-rust"
       - 
         url: "https://github.com/eclipse-zenoh/zenoh-plugin-dds"
+      - 
+        url: "https://github.com/eclipse-zenoh/zenoh-pico"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9764,6 +10124,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -9784,6 +10145,7 @@
       - 
         url: "https://github.com/locationtech/geobench"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9816,6 +10178,7 @@
       - 
         url: "https://github.com/locationtech/geogig"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9852,6 +10215,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -9875,6 +10239,7 @@
       - 
         url: "https://github.com/locationtech/geomesa"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9943,6 +10308,7 @@
       - 
         url: "https://github.com/locationtech/geoperil"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -9979,6 +10345,7 @@
       - 
         url: "https://github.com/locationtech/geotrellis"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10020,6 +10387,7 @@
       - 
         url: "https://github.com/locationtech/geowave"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10076,6 +10444,7 @@
       - 
         url: "https://github.com/locationtech/jts"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10121,6 +10490,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/libspatialindex/libspatialindex.git"
     contributors: []
     committers: 
       - 
@@ -10147,6 +10519,7 @@
       - 
         url: "https://github.com/locationtech/proj4j"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10192,6 +10565,7 @@
       - 
         url: "https://github.com/locationtech/rasterframes"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10233,6 +10607,7 @@
       - 
         url: "https://github.com/locationtech/sfcurve"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10268,6 +10643,7 @@
       - 
         url: "https://github.com/locationtech/spatial4j"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10304,6 +10680,7 @@
       - 
         url: "https://github.com/locationtech/udig-platform"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10337,6 +10714,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10365,6 +10743,9 @@
       - "code generation"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/acceleo/org.eclipse.acceleo.git"
     contributors: []
     committers: 
       - 
@@ -10463,6 +10844,7 @@
       - 
         url: "https://github.com/eclipse/agileuml"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10493,6 +10875,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/amalgam/org.eclipse.amalgam.git"
     contributors: []
     committers: 
       - 
@@ -10565,6 +10950,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/amp/org.eclipse.amp.git"
     contributors: []
     committers: 
       - 
@@ -10595,6 +10983,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -10629,6 +11018,9 @@
       - "Traceability"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/capra/org.eclipse.capra.git"
     contributors: []
     committers: 
       - 
@@ -10668,6 +11060,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/eatop/org.eclipse.eatop.git"
     contributors: []
     committers: 
       - 
@@ -10701,6 +11096,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ecoretools/org.eclipse.ecoretools.git"
     contributors: []
     committers: 
       - 
@@ -10788,6 +11186,13 @@
       - "forms"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emfclient/org.eclipse.emf.ecp.core.git"
+      - 
+        url: "/gitroot/emfclient/org.eclipse.emf.ecp.other.git"
+      - 
+        url: "/gitroot/emfclient/org.eclipse.emf.ecp.releng.git"
     contributors: []
     committers: 
       - 
@@ -10950,6 +11355,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/edapt/org.eclipse.emf.edapt.git"
     contributors: []
     committers: 
       - 
@@ -11025,6 +11433,9 @@
       - "gui"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/eef/org.eclipse.eef.git"
     contributors: []
     committers: 
       - 
@@ -11124,6 +11535,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/efm/efm.git"
+      - 
+        url: "/gitroot/efm/org.eclipse.efm-heffective.git"
+      - 
+        url: "/gitroot/efm/org.eclipse.efm-hibou.git"
+      - 
+        url: "/gitroot/efm/org.eclipse.efm-modeling.git"
+      - 
+        url: "/gitroot/efm/org.eclipse.efm-symbex.git"
     contributors: []
     committers: 
       - 
@@ -11172,6 +11594,7 @@
       - 
         url: "https://github.com/eclipse/elk-models"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "sdomrs"
@@ -11247,6 +11670,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -11278,6 +11702,11 @@
       - "UI"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emf-parsley/org.eclipse.emf-parsley.git"
+      - 
+        url: "/gitroot/emf-parsley/org.eclipse.emf-parsley.core.git"
     contributors: []
     committers: 
       - 
@@ -11365,6 +11794,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/cdo/cdo.git"
+      - 
+        url: "/gitroot/cdo/cdo.incubator.git"
+      - 
+        url: "/gitroot/cdo/cdo.infrastructure.git"
     contributors: []
     committers: 
       - 
@@ -11446,6 +11882,15 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/diffmerge/org.eclipse.emf.diffmerge.core.git"
+      - 
+        url: "/gitroot/diffmerge/org.eclipse.emf.diffmerge.patterns.git"
+      - 
+        url: "/gitroot/diffmerge/org.eclipse.emf.diffmerge.coevolution.git"
+      - 
+        url: "/gitroot/diffmerge/org.eclipse.emf.diffmerge.patch.git"
     contributors: []
     committers: 
       - 
@@ -11530,6 +11975,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/egf/org.eclipse.emf.egf.git"
     contributors: []
     committers: 
       - 
@@ -11659,26 +12107,14 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emf/org.eclipse.emf.git"
     contributors: []
     committers: 
       - 
-        username: "mvorburgeragh"
-        url: "https://api.eclipse.org/account/profile/mvorburgeragh"
-      - 
-        username: "mkoegel"
-        url: "https://api.eclipse.org/account/profile/mkoegel"
-      - 
-        username: "dhubner"
-        url: "https://api.eclipse.org/account/profile/dhubner"
-      - 
-        username: "tschindl"
-        url: "https://api.eclipse.org/account/profile/tschindl"
-      - 
         username: "emerks"
         url: "https://api.eclipse.org/account/profile/emerks"
-      - 
-        username: "khussey"
-        url: "https://api.eclipse.org/account/profile/khussey"
     project_leads: 
       - 
         username: "emerks"
@@ -11844,6 +12280,9 @@
       - 
         url: "https://github.com/eclipse/mwe"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emf/org.eclipse.mwe.git"
     contributors: []
     committers: 
       - 
@@ -11958,6 +12397,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -11994,6 +12434,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -12015,6 +12456,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/teneo/org.eclipse.emf.teneo.git"
     contributors: []
     committers: 
       - 
@@ -12048,6 +12492,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -12087,6 +12532,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -12123,6 +12569,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emfcompare/org.eclipse.emf.compare.git"
     contributors: []
     committers: 
       - 
@@ -12237,6 +12686,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emf-query/org.eclipse.emf.query.git"
+      - 
+        url: "/gitroot/emf-transaction/org.eclipse.emf.transaction.git"
+      - 
+        url: "/gitroot/emf-validation/org.eclipse.emf.validation.git"
     contributors: []
     committers: 
       - 
@@ -12296,6 +12752,9 @@
       - "Versioning"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emf-store/org.eclipse.emf.emfstore.core.git"
     contributors: []
     committers: 
       - 
@@ -12395,6 +12854,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -12416,6 +12876,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/b3/b3.git"
     contributors: []
     committers: []
     project_leads: []
@@ -12443,6 +12906,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -12461,6 +12925,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -12503,6 +12968,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/emfatic/org.eclipse.emfatic.git"
     contributors: []
     committers: 
       - 
@@ -12534,6 +13002,19 @@
       - "Meta Model"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/featuremodel/org.eclipse.featuremodel.metamodel.git"
+      - 
+        url: "/gitroot/featuremodel/org.eclipse.featuremodel.evaluation.git"
+      - 
+        url: "/gitroot/featuremodel/org.eclipse.featuremodel.editor.diagram.git"
+      - 
+        url: "/gitroot/featuremodel/org.eclipse.featuremodel.pvbridge.git"
+      - 
+        url: "/gitroot/featuremodel/org.eclipse.featuremodel.editor.xtext.git"
+      - 
+        url: "/gitroot/featuremodel/org.eclipse.featuremodel.releng.git"
     contributors: []
     committers: []
     project_leads: []
@@ -12565,6 +13046,9 @@
       - "model transformation"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/henshin/org.eclipse.emft.henshin.git"
     contributors: []
     committers: 
       - 
@@ -12634,6 +13118,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/refactor/org.eclipse.emf.refactor.core.git"
+      - 
+        url: "/gitroot/refactor/org.eclipse.emf.refactor.metrics.git"
+      - 
+        url: "/gitroot/refactor/org.eclipse.emf.refactor.smells.git"
+      - 
+        url: "/gitroot/refactor/org.eclipse.emf.refactor.refactoring.git"
+      - 
+        url: "/gitroot/refactor/org.eclipse.emf.refactor.examples.git"
     contributors: []
     committers: 
       - 
@@ -12676,6 +13171,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/texo/org.eclipse.emf.texo.git"
     contributors: []
     committers: 
       - 
@@ -12700,6 +13198,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/wazaabi/org.eclipse.wazaabi.git"
     contributors: []
     committers: []
     project_leads: []
@@ -12719,6 +13220,9 @@
       - "Model Management"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/epsilon/org.eclipse.epsilon.git"
     contributors: 
       - 
         username: "dkolovos"
@@ -12827,6 +13331,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/fmc/org.eclipse.fmc.core.git"
     contributors: []
     committers: 
       - 
@@ -12848,6 +13355,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -12887,6 +13395,7 @@
       - 
         url: "https://github.com/eclipse/gemoc-studio-execution-moccml"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -12932,6 +13441,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gendoc/org.eclipse.gendoc.git"
     contributors: []
     committers: 
       - 
@@ -12986,6 +13498,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gmf-notation/org.eclipse.gmf.notation.git"
     contributors: []
     committers: []
     project_leads: []
@@ -13061,6 +13576,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gmf-notation/org.eclipse.gmf.notation.git"
+      - 
+        url: "/gitroot/gmf-runtime/org.eclipse.gmf-runtime.git"
     contributors: []
     committers: 
       - 
@@ -13181,6 +13701,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -13199,6 +13720,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gmf-tooling/org.eclipse.gmf-tooling.git"
     contributors: []
     committers: 
       - 
@@ -13241,6 +13765,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -13259,6 +13784,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -13277,6 +13803,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/graphiti/org.eclipse.graphiti.git"
     contributors: []
     committers: 
       - 
@@ -13402,6 +13931,9 @@
     gitlab_repos: 
       - 
         url: "https://gitlab.eclipse.org/eclipse/hawk/hawk"
+    gerrit_repos: 
+      - 
+        url: "/gitroot/hawk/hawk.git"
     contributors: 
       - 
         username: "agarciad"
@@ -13444,6 +13976,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/incquery/org.eclipse.incquery.git"
+      - 
+        url: "/gitroot/incquery/org.eclipse.incquery.examples.git"
     contributors: []
     committers: []
     project_leads: []
@@ -13492,6 +14029,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -13540,6 +14078,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/m2t/org.eclipse.jet.git"
     contributors: []
     committers: []
     project_leads: []
@@ -13561,6 +14102,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/m2t/org.eclipse.xpand.git"
     contributors: []
     committers: 
       - 
@@ -13639,6 +14183,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mdht/org.eclipse.mdht.git"
     contributors: []
     committers: 
       - 
@@ -13666,6 +14213,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -13736,6 +14284,9 @@
       - "BPMN2 Model"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/bpmn2/org.eclipse.bpmn2.git"
     contributors: []
     committers: 
       - 
@@ -13790,6 +14341,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/etrice/org.eclipse.etrice.git"
     contributors: []
     committers: 
       - 
@@ -13889,6 +14443,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -13907,6 +14462,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ocl/org.eclipse.ocl.git"
     contributors: []
     committers: 
       - 
@@ -14002,6 +14560,39 @@
       - "MARTE"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus.tools.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-sysml.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-sysml11.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-bpmn.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-collaborativemodeling.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-designer.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-informationmodeling.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-interoperability.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-marte.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-moka.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-productline.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-requirements.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-robotml.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus.incubation.git"
+      - 
+        url: "/gitroot/papyrus/org.eclipse.papyrus-robotics.git"
     contributors: []
     committers: 
       - 
@@ -14200,6 +14791,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/rmf/org.eclipse.rmf.git"
     contributors: []
     committers: 
       - 
@@ -14251,6 +14845,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/uml2/org.eclipse.uml2.git"
     contributors: []
     committers: 
       - 
@@ -14374,11 +14971,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/xsd/org.eclipse.xsd.git"
     contributors: []
     committers: 
-      - 
-        username: "dhubner"
-        url: "https://api.eclipse.org/account/profile/dhubner"
       - 
         username: "emerks"
         url: "https://api.eclipse.org/account/profile/emerks"
@@ -14536,6 +15133,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -14578,6 +15176,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mmt/org.eclipse.atl.git"
+      - 
+        url: "/gitroot/mmt/org.eclipse.atl.tcs.git"
     contributors: []
     committers: 
       - 
@@ -14665,6 +15268,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mmt/org.eclipse.qvto.git"
     contributors: []
     committers: 
       - 
@@ -14761,6 +15367,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mmt/org.eclipse.qvtd.git"
     contributors: []
     committers: 
       - 
@@ -14839,6 +15448,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/modisco/org.eclipse.modisco.git"
     contributors: []
     committers: 
       - 
@@ -14908,6 +15520,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -14926,6 +15539,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/papyrus-rt/org.eclipse.papyrus-rt.git"
     contributors: []
     committers: 
       - 
@@ -14995,6 +15611,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -15018,6 +15635,7 @@
       - "Modeling UI"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -15046,6 +15664,11 @@
       - 
         url: "https://github.com/eclipse-sirius/sirius-specs"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sirius/org.eclipse.sirius.git"
+      - 
+        url: "/gitroot/sirius/org.eclipse.sirius.legacy.git"
     contributors: []
     committers: 
       - 
@@ -15307,6 +15930,7 @@
       - 
         url: "https://github.com/eclipse/smartmdsd"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -15343,6 +15967,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sphinx/org.eclipse.sphinx.git"
     contributors: []
     committers: 
       - 
@@ -15400,6 +16027,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -15465,8 +16093,12 @@
       - 
         url: "https://github.com/eclipse/xtext-umbrella"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
+      - 
+        username: "nmisingnamev3j"
+        url: "https://api.eclipse.org/account/profile/nmisingnamev3j"
       - 
         username: "nprediger"
         url: "https://api.eclipse.org/account/profile/nprediger"
@@ -15672,6 +16304,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/umlgen/org.eclipse.umlgen.git"
     contributors: []
     committers: 
       - 
@@ -15705,6 +16340,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/upr/upr.git"
     contributors: []
     committers: 
       - 
@@ -15747,6 +16385,15 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/viatra/org.eclipse.viatra.git"
+      - 
+        url: "/gitroot/viatra/org.eclipse.viatra.modelobfuscator.git"
+      - 
+        url: "/gitroot/viatra/org.eclipse.viatra.examples.git"
+      - 
+        url: "/gitroot/viatra/org.eclipse.viatra2.vpm.git"
     contributors: []
     committers: 
       - 
@@ -15912,6 +16559,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -15932,6 +16580,7 @@
       - 
         url: "https://github.com/eclipse/Xpect"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -15976,6 +16625,7 @@
       - 
         url: "https://github.com/eclipse/xsemantics"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -16021,6 +16671,9 @@
       - "WikiText"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.git"
     contributors: []
     committers: 
       - 
@@ -16165,6 +16818,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.builds.git"
     contributors: []
     committers: 
       - 
@@ -16216,6 +16872,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.commons.git"
     contributors: []
     committers: 
       - 
@@ -16267,6 +16926,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.context.git"
     contributors: []
     committers: 
       - 
@@ -16312,6 +16974,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.context.mft.git"
     contributors: []
     committers: 
       - 
@@ -16363,6 +17028,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.docs.git"
     contributors: []
     committers: 
       - 
@@ -16492,6 +17160,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/intent/org.eclipse.mylyn.docs.intent.main.git"
     contributors: []
     committers: 
       - 
@@ -16537,6 +17208,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.docs.vex.git"
     contributors: []
     committers: 
       - 
@@ -16570,6 +17244,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.incubator.git"
     contributors: []
     committers: 
       - 
@@ -16606,6 +17283,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.reviews.git"
     contributors: []
     committers: 
       - 
@@ -16681,6 +17361,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/r4e/org.eclipse.mylyn.reviews.r4e.git"
     contributors: []
     committers: 
       - 
@@ -16735,6 +17418,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.tasks.git"
     contributors: []
     committers: 
       - 
@@ -16795,6 +17481,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mylyn/org.eclipse.mylyn.versions.git"
     contributors: []
     committers: 
       - 
@@ -16849,6 +17538,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -16867,6 +17557,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -16924,6 +17615,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -16942,6 +17634,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/3p/3p.git"
+      - 
+        url: "/gitroot/3p/simrel.git"
     contributors: []
     committers: 
       - 
@@ -16983,6 +17680,7 @@
       - 
         url: "https://github.com/polarsys/b612"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17039,6 +17737,7 @@
       - 
         url: "https://github.com/eclipse/capella-textual-editor"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17197,6 +17896,9 @@
     gitlab_repos: 
       - 
         url: "https://gitlab.eclipse.org/eclipse/chess/chess"
+    gerrit_repos: 
+      - 
+        url: "/gitroot/chess/chess.git"
     contributors: []
     committers: 
       - 
@@ -17256,18 +17958,10 @@
       - 
         url: "https://github.com/polarsys/eplmp"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
-    committers: 
-      - 
-        username: "mguimard"
-        url: "https://api.eclipse.org/account/profile/mguimard"
-      - 
-        username: "fgarin"
-        url: "https://api.eclipse.org/account/profile/fgarin"
-    project_leads: 
-      - 
-        username: "fgarin"
-        url: "https://api.eclipse.org/account/profile/fgarin"
+    committers: []
+    project_leads: []
     working_groups: []
     spec_project_working_group: []
     state: "Incubating"
@@ -17283,6 +17977,19 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/esf/esf.git"
+      - 
+        url: "/gitroot/esf/esf-connectors.git"
+      - 
+        url: "/gitroot/esf/esf-documents.git"
+      - 
+        url: "/gitroot/esf/esf-infra.git"
+      - 
+        url: "/gitroot/esf/esf-tools.git"
+      - 
+        url: "/gitroot/esf/test-esf.git"
     contributors: []
     committers: 
       - 
@@ -17326,6 +18033,7 @@
       - 
         url: "https://github.com/eclipse/kitalpha"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17436,6 +18144,7 @@
       - 
         url: "https://github.com/polarsys/libims"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17471,6 +18180,7 @@
       - 
         url: "https://github.com/polarsys/ng661designer"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17504,6 +18214,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/opencert/opencert.git"
     contributors: []
     committers: 
       - 
@@ -17570,6 +18283,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -17588,6 +18302,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -17606,6 +18321,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -17624,6 +18340,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -17644,6 +18361,7 @@
       - 
         url: "https://github.com/polarsys/time4sys"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17677,6 +18395,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17704,6 +18423,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/apricot/org.eclipse.apricot.git"
     contributors: []
     committers: []
     project_leads: []
@@ -17727,6 +18449,7 @@
       - 
         url: "https://github.com/eclipse/ebr"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -17766,6 +18489,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ecf/org.eclipse.ecf.git"
     contributors: []
     committers: 
       - 
@@ -17946,6 +18672,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/equinox/rt.equinox.bundles.git"
     contributors: []
     committers: []
     project_leads: []
@@ -17964,6 +18693,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/equinox/rt.equinox.framework.git"
+      - 
+        url: "/gitroot/equinox/rt.equinox.binaries.git"
     contributors: []
     committers: []
     project_leads: []
@@ -17982,6 +18716,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -18000,6 +18735,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/equinox/rt.equinox.p2.git"
     contributors: []
     committers: []
     project_leads: []
@@ -18033,6 +18771,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -18051,6 +18790,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -18069,6 +18809,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/www.eclipse.org/gemini.git"
     contributors: []
     committers: 
       - 
@@ -18116,6 +18859,11 @@
       - 
         url: "https://github.com/eclipse/gemini.blueprint"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gemini.blueprint/org.eclipse.gemini.blueprint.git"
+      - 
+        url: "/gitroot/www.eclipse.org/gemini/blueprint.git"
     contributors: []
     committers: 
       - 
@@ -18161,6 +18909,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gemini.dbaccess/org.eclipse.gemini.dbaccess.git"
     contributors: []
     committers: 
       - 
@@ -18197,6 +18948,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gemini.jpa/org.eclipse.gemini.jpa.git"
     contributors: []
     committers: 
       - 
@@ -18248,6 +19002,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gemini.management/org.eclipse.gemini.managment.git"
     contributors: []
     committers: 
       - 
@@ -18305,6 +19062,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gemini.naming/org.eclipse.gemini.naming.git"
     contributors: []
     committers: 
       - 
@@ -18350,6 +19110,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gemini.web/org.eclipse.gemini.web.gemini-web-container.git"
     contributors: []
     committers: 
       - 
@@ -18429,6 +19192,9 @@
       - 
         url: "https://github.com/eclipse/gyrex-server"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gyrex/gyrex-server.git"
     contributors: []
     committers: []
     project_leads: []
@@ -18489,6 +19255,7 @@
       - 
         url: "https://github.com/eclipse/jetty.docker"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "lorban63r"
@@ -18592,6 +19359,11 @@
       - "browser"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/rap/org.eclipse.rap.git"
+      - 
+        url: "/gitroot/rap/org.eclipse.rap.tools.git"
     contributors: []
     committers: 
       - 
@@ -18781,6 +19553,37 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.cnf.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.fileupload.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.gef.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.releng.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.spreadsheet.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.tabbed-properties.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.themeeditor.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.visualization.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.clientscripting.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.dropdown.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.nebula-grid.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.osgi-packaging.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.pde.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.richtext.git"
+      - 
+        url: "/gitroot/rap/incubator/org.eclipse.rap.incubator.e4.compatibility.workbench.git"
     contributors: []
     committers: 
       - 
@@ -18852,6 +19655,17 @@
       - 
         url: "https://github.com/eclipse/org.eclipse.riena.plugins.archive"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/riena/org.eclipse.riena.git"
+      - 
+        url: "/gitroot/riena/org.eclipse.riena.rap.git"
+      - 
+        url: "/gitroot/riena/org.eclipse.riena.toolbox.git"
+      - 
+        url: "/gitroot/riena/org.eclipse.riena.setup.git"
+      - 
+        url: "/gitroot/riena/org.eclipse.riena.old.git"
     contributors: []
     committers: 
       - 
@@ -18969,6 +19783,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/smila/org.eclipse.smila.core.git"
+      - 
+        url: "/gitroot/smila/org.eclipse.smila.tooling.git"
     contributors: []
     committers: 
       - 
@@ -19024,6 +19843,7 @@
       - 
         url: "https://github.com/eclipse-vertx/.github"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19123,6 +19943,65 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.apps.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.artifact-repository.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.bundlor.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.documentation.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.eclipse-mirror.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.jetty-server.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.kernel-system-verification-tests.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.kernel-tools.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.kernel.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.medic.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.nano.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.osgi-extensions.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.osgi-test-stubs.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.packaging.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.performance-test.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.sample-configuration-properties.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.samples.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.sample-formtags.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.sample-greenpages.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.sample-osgi-examples.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.snaps.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.system-verification-tests.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.test.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.util.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.virgo-build.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.web-server.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.web.git"
+      - 
+        url: "/gitroot/www.eclipse.org/virgo.git"
+      - 
+        url: "/gitroot/virgo/org.eclipse.virgo.root.git"
     contributors: []
     committers: 
       - 
@@ -19222,6 +20101,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -19245,6 +20125,7 @@
       - 
         url: "https://github.com/eclipse/chemclipse"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19289,6 +20170,7 @@
       - 
         url: "https://github.com/eclipse/dawnsci"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19327,6 +20209,7 @@
       - 
         url: "https://github.com/eclipse/eavp"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19377,6 +20260,7 @@
       - 
         url: "https://github.com/eclipse/ice"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19435,6 +20319,7 @@
       - 
         url: "https://github.com/eclipse/january-forms"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19515,6 +20400,7 @@
       - 
         url: "https://github.com/eclipse/richbeans"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19553,6 +20439,7 @@
       - 
         url: "https://github.com/eclipse/scanning"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19592,6 +20479,21 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/statet/org.eclipse.statet.git"
+      - 
+        url: "/gitroot/statet/org.eclipse.statet-commons.git"
+      - 
+        url: "/gitroot/statet/org.eclipse.statet-docmlet.git"
+      - 
+        url: "/gitroot/statet/org.eclipse.statet-eutils.git"
+      - 
+        url: "/gitroot/statet/org.eclipse.statet-ltk.git"
+      - 
+        url: "/gitroot/statet/org.eclipse.statet-r.git"
+      - 
+        url: "/gitroot/statet/org.eclipse.statet-rj.git"
     contributors: []
     committers: 
       - 
@@ -19621,6 +20523,9 @@
     state: "Incubating"
     releases: 
       - 
+        name: "4.3.0"
+        url: "https://projects.eclipse.org/projects/science.statet/releases/4.3.0"
+      - 
         name: "4.2.0"
         url: "https://projects.eclipse.org/projects/science.statet/releases/4.2.0"
       - 
@@ -19648,6 +20553,7 @@
       - 
         url: "https://github.com/eclipse/swtchart"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19692,6 +20598,7 @@
       - 
         url: "https://github.com/eclipse/texlipse"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19736,6 +20643,7 @@
       - 
         url: "https://github.com/eclipse/triquetrum"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19795,6 +20703,7 @@
       - 
         url: "https://github.com/eclipse/xacc"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19831,6 +20740,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -19858,6 +20768,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/bpel/org.eclipse.bpel.git"
     contributors: []
     committers: 
       - 
@@ -19921,6 +20834,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/bpmn2-modeler/org.eclipse.bpmn2-modeler.git"
     contributors: []
     committers: 
       - 
@@ -20029,6 +20945,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/bpmnmodeler"
     contributors: []
     committers: []
     project_leads: []
@@ -20056,6 +20975,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -20080,6 +21000,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -20113,6 +21034,9 @@
       - "Bonita"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jwt/org.eclipse.soa.jwt.git"
     contributors: []
     committers: 
       - 
@@ -20179,6 +21103,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mangrove/org.eclipse.mangrove.git"
     contributors: []
     committers: 
       - 
@@ -20215,6 +21142,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sca/org.eclipse.sca.tools.git"
     contributors: []
     committers: []
     project_leads: []
@@ -20271,6 +21201,7 @@
       - 
         url: "https://github.com/eclipse/score"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -20289,6 +21220,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -20355,6 +21287,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -20397,6 +21330,7 @@
       - 
         url: "https://github.com/eclipse/winery-topologymodeler"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -20433,6 +21367,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -20451,6 +21386,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/actf/org.eclipse.actf.ai.git"
+      - 
+        url: "/gitroot/actf/org.eclipse.actf.common.git"
+      - 
+        url: "/gitroot/actf/org.eclipse.actf.examples.git"
+      - 
+        url: "/gitroot/actf/org.eclipse.actf.visualization.git"
+      - 
+        url: "/gitroot/actf/org.eclipse.actf.visualization.releng.git"
     contributors: []
     committers: 
       - 
@@ -20564,6 +21510,7 @@
       - 
         url: "https://github.com/eclipse/adore"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -20612,6 +21559,15 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/aether/aether-ant.git"
+      - 
+        url: "/gitroot/aether/aether-core.git"
+      - 
+        url: "/gitroot/aether/aether-demo.git"
+      - 
+        url: "/gitroot/aether/aether-update-site.git"
     contributors: []
     committers: []
     project_leads: []
@@ -20645,6 +21601,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/apogy/apogy.git"
     contributors: []
     committers: 
       - 
@@ -20672,6 +21631,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/app4mc/org.eclipse.app4mc.git"
+      - 
+        url: "/gitroot/app4mc/org.eclipse.app4mc.cloud.git"
+      - 
+        url: "/gitroot/app4mc/org.eclipse.app4mc.addon.migration.git"
+      - 
+        url: "/gitroot/app4mc/org.eclipse.app4mc.examples.git"
+      - 
+        url: "/gitroot/app4mc/org.eclipse.app4mc.tools.git"
     contributors: []
     committers: 
       - 
@@ -20771,6 +21741,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -20808,7 +21779,9 @@
         username: "swhite"
         url: "https://api.eclipse.org/account/profile/swhite"
     working_groups: []
-    spec_project_working_group: []
+    spec_project_working_group: 
+      name: "AsciiDoc"
+      id: "asciidoc"
     state: "Incubating"
     releases: []
   - 
@@ -20822,6 +21795,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/babel/server.git"
+      - 
+        url: "/gitroot/babel/plugins.git"
     contributors: []
     committers: 
       - 
@@ -20882,6 +21860,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/basyx/basyx.git"
+      - 
+        url: "/gitroot/basyx/basyx.website.git"
     contributors: []
     committers: 
       - 
@@ -20944,6 +21927,7 @@
       - 
         url: "https://github.com/eclipse/birt"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21106,6 +22090,7 @@
       - 
         url: "https://github.com/eclipse/bridgeiot.marketplace.exchange"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21147,6 +22132,9 @@
       - "Application Management"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/camf/org.eclipse.camf.git"
     contributors: []
     committers: 
       - 
@@ -21199,6 +22187,17 @@
       - 
         url: "https://github.com/eclipse-cbi/macos-notarization-service"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/cbi/org.eclipse.cbi.git"
+      - 
+        url: "/gitroot/cbi/org.eclipse.cbi.examples.git"
+      - 
+        url: "/gitroot/cbi/org.eclipse.cbi.p2repo.aggregator.git"
+      - 
+        url: "/gitroot/cbi/org.eclipse.cbi.p2repo.analyzers.git"
+      - 
+        url: "/gitroot/cbi/org.eclipse.license.git"
     contributors: []
     committers: 
       - 
@@ -21303,6 +22302,7 @@
       - 
         url: "https://github.com/eclipse/ceylon-web-ide-backend"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21353,6 +22353,7 @@
       - 
         url: "https://github.com/eclipse/cloe"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21394,6 +22395,7 @@
       - 
         url: "https://github.com/eclipse-cognicrypt/CogniCrypt"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21456,6 +22458,7 @@
       - 
         url: "https://github.com/eclipse/www.eclipse.org-collections"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21565,6 +22568,15 @@
     gitlab_repos: 
       - 
         url: "https://gitlab.eclipse.org/eclipse/dash/dash-gitlab-testing"
+    gerrit_repos: 
+      - 
+        url: "/gitroot/dash/org.eclipse.dash.dashboard.git"
+      - 
+        url: "/gitroot/dash/org.eclipse.dash.handbook.git"
+      - 
+        url: "/gitroot/dash/org.eclipse.dash.m4e.tools.git"
+      - 
+        url: "/gitroot/dash/org.eclipse.dash.maven.git"
     contributors: []
     committers: 
       - 
@@ -21616,6 +22628,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21646,6 +22659,7 @@
       - 
         url: "https://github.com/eclipse/deeplearning4j-examples"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "seraly"
@@ -21724,6 +22738,21 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/dltk/org.eclipse.dltk.core.git"
+      - 
+        url: "/gitroot/dltk/org.eclipse.dltk.javascript.git"
+      - 
+        url: "/gitroot/dltk/org.eclipse.dltk.ruby.git"
+      - 
+        url: "/gitroot/dltk/org.eclipse.dltk.tcl.git"
+      - 
+        url: "/gitroot/dltk/org.eclipse.dltk.python.git"
+      - 
+        url: "/gitroot/dltk/org.eclipse.dltk.sh.git"
+      - 
+        url: "/gitroot/dltk/org.eclipse.dltk.releng.git"
     contributors: []
     committers: 
       - 
@@ -21859,6 +22888,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ease/org.eclipse.ease.core.git"
+      - 
+        url: "/gitroot/ease/org.eclipse.ease.modules.git"
+      - 
+        url: "/gitroot/ease/org.eclipse.ease.scripts.git"
     contributors: []
     committers: 
       - 
@@ -21913,6 +22949,7 @@
       - 
         url: "https://github.com/eclipse/eclemma"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21966,6 +23003,7 @@
       - 
         url: "https://github.com/eclipse/efbt"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -21998,6 +23036,7 @@
       - 
         url: "https://github.com/eclipse-efx/efxclipse-drift"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -22017,6 +23056,9 @@
     spec_project_working_group: []
     state: "Regular"
     releases: 
+      - 
+        name: "3.7.0"
+        url: "https://projects.eclipse.org/projects/technology.efxclipse/releases/3.7.0"
       - 
         name: "3.6.0"
         url: "https://projects.eclipse.org/projects/technology.efxclipse/releases/3.6.0"
@@ -22091,6 +23133,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/egerrit/org.eclipse.egerrit.git"
     contributors: []
     committers: 
       - 
@@ -22139,6 +23184,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/egit/egit.git"
+      - 
+        url: "/gitroot/egit/egit-github.git"
     contributors: []
     committers: 
       - 
@@ -22421,6 +23471,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -22439,6 +23490,35 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.additional.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.archive.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.composer.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.design.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.docs.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.features.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.libraries.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.nl-libraries.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.nl-src.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.plugins.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.projects.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.prototype.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.tests.git"
+      - 
+        url: "/gitroot/epf/org.eclipse.epf.wiki.git"
     contributors: []
     committers: 
       - 
@@ -22520,6 +23600,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -22547,6 +23628,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/examples/org.eclipse.examples.slideshow.git"
+      - 
+        url: "/gitroot/examples/org.eclipse.examples.imageutils.git"
+      - 
+        url: "/gitroot/examples/org.eclipse.examples.toast.git"
     contributors: []
     committers: []
     project_leads: []
@@ -22571,6 +23659,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/geclipse/eu.geclipse.core.git"
     contributors: []
     committers: []
     project_leads: []
@@ -22595,6 +23686,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/gef3d/org.eclipse.gef3d.git"
     contributors: []
     committers: 
       - 
@@ -22631,6 +23725,7 @@
       - 
         url: "https://github.com/eclipse/golo-lang"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -22700,6 +23795,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/handly/org.eclipse.handly.git"
     contributors: []
     committers: 
       - 
@@ -22808,6 +23906,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -22832,6 +23931,21 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/hudson/org.eclipse.hudson.core.git"
+      - 
+        url: "/gitroot/hudson/org.eclipse.hudson.maven-hpi-plugin.git"
+      - 
+        url: "/gitroot/hudson/org.eclipse.hudson.remoting.git"
+      - 
+        url: "/gitroot/hudson/org.eclipse.hudson.stapler.git"
+      - 
+        url: "/gitroot/hudson/org.eclipse.hudson.test.harness.git"
+      - 
+        url: "/gitroot/hudson/org.eclipse.hudson.test.ui.git"
+      - 
+        url: "/gitroot/www.eclipse.org/hudson.git"
     contributors: []
     committers: []
     project_leads: []
@@ -22900,6 +24014,7 @@
       - 
         url: "https://github.com/eclipse/iceoryx"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "mphnl"
@@ -22945,6 +24060,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ide4edu/org.eclipse.ide4edu.git"
     contributors: []
     committers: []
     project_leads: []
@@ -22966,6 +24084,7 @@
       - 
         url: "https://github.com/eclipse/imagen"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -22999,6 +24118,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -23031,6 +24151,7 @@
       - 
         url: "https://github.com/eclipse/iottestware.performance"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -23092,6 +24213,7 @@
       - 
         url: "https://github.com/eclipse/jemo-website"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -23125,6 +24247,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jgit/jgit.git"
     contributors: []
     committers: 
       - 
@@ -23562,6 +24687,7 @@
       - 
         url: "https://github.com/eclipse/jifa"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -23620,6 +24746,7 @@
       - 
         url: "https://github.com/eclipse/jnosql-aphrodite"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -23689,6 +24816,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jubula/org.eclipse.jubula.core.git"
     contributors: []
     committers: 
       - 
@@ -23812,6 +24942,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/justj/justj.git"
+      - 
+        url: "/gitroot/justj/justj.tools.git"
+      - 
+        url: "/gitroot/www.eclipse.org/justj.git"
     contributors: []
     committers: 
       - 
@@ -23845,6 +24982,21 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/koneki/org.eclipse.koneki.commons.git"
+      - 
+        url: "/gitroot/koneki/org.eclipse.koneki.ldt.git"
+      - 
+        url: "/gitroot/koneki/org.eclipse.koneki.models.git"
+      - 
+        url: "/gitroot/koneki/org.eclipse.koneki.mfe.git"
+      - 
+        url: "/gitroot/koneki/org.eclipse.koneki.mfe.linux.git"
+      - 
+        url: "/gitroot/koneki/org.eclipse.koneki.protocols.git"
+      - 
+        url: "/gitroot/koneki/org.eclipse.koneki.simulators.git"
     contributors: []
     committers: []
     project_leads: []
@@ -23885,6 +25037,7 @@
       - 
         url: "https://github.com/eclipse/lemminx-maven"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -23938,6 +25091,9 @@
       - "protocol"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/lsp4e/lsp4e.git"
     contributors: []
     committers: 
       - 
@@ -24021,6 +25177,7 @@
       - 
         url: "https://github.com/eclipse/lsp4j"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -24137,6 +25294,7 @@
       - 
         url: "https://github.com/eclipse/lsp4mp"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -24214,6 +25372,9 @@
       - 
         url: "https://github.com/eclipse/lyo"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/lyo/org.eclipse.lyo.tools.git"
     contributors: []
     committers: 
       - 
@@ -24295,6 +25456,13 @@
       - 
         url: "https://github.com/eclipse-m2e/org.eclipse.m2e.workspace"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/m2e/m2e-core.git"
+      - 
+        url: "/gitroot/m2e/m2e-discovery-catalog.git"
+      - 
+        url: "/gitroot/m2e/org.eclipse.m2e.workspace.git"
     contributors: []
     committers: 
       - 
@@ -24401,6 +25569,11 @@
       - "maven wtp"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/m2e-wtp/org.eclipse.m2e.wtp.git"
+      - 
+        url: "/gitroot/m2e-wtp/org.eclipse.m2e.wtp.jpa.git"
     contributors: []
     committers: 
       - 
@@ -24470,6 +25643,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -24516,6 +25690,27 @@
       - "Eclipse Working Group"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.api.base.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.api.default.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.api.odsadapter.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.api.uml.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.mdfsorter.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.nucleus.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.openatfx.mdf.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdm.realms.git"
+      - 
+        url: "/gitroot/mdmbl/org.eclipse.mdmbl.git"
     contributors: []
     committers: 
       - 
@@ -24564,6 +25759,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -24632,6 +25828,7 @@
       - 
         url: "https://github.com/eclipse/microprofile-graphql"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -24964,6 +26161,7 @@
       - 
         url: "https://github.com/eclipse/mosaic"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -25007,6 +26205,7 @@
       - 
         url: "https://github.com/eclipse/n4js-tutorials"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -25074,6 +26273,7 @@
       - 
         url: "https://github.com/eclipse/nebula"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -25176,6 +26376,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -25221,6 +26422,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/nattable/org.eclipse.nebula.widgets.nattable.git"
     contributors: []
     committers: 
       - 
@@ -25273,6 +26477,9 @@
       - "odata"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ogee/org.eclipse.ogee.git"
     contributors: []
     committers: 
       - 
@@ -25328,7 +26535,11 @@
       - 
         url: "https://github.com/eclipse/omr.website"
     gitlab_repos: []
-    contributors: []
+    gerrit_repos: []
+    contributors: 
+      - 
+        username: "idsouza"
+        url: "https://api.eclipse.org/account/profile/idsouza"
     committers: 
       - 
         username: "bthomasjp1"
@@ -25411,10 +26622,26 @@
       - 
         url: "https://github.com/eclipse/openj9-utils"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "tajila"
         url: "https://api.eclipse.org/account/profile/tajila"
+      - 
+        username: "tmammarella"
+        url: "https://api.eclipse.org/account/profile/tmammarella"
+      - 
+        username: "bthomasjp1"
+        url: "https://api.eclipse.org/account/profile/bthomasjp1"
+      - 
+        username: "amehrap6l"
+        url: "https://api.eclipse.org/account/profile/amehrap6l"
+      - 
+        username: "ayoungqyj"
+        url: "https://api.eclipse.org/account/profile/ayoungqyj"
+      - 
+        username: "jfengbrn"
+        url: "https://api.eclipse.org/account/profile/jfengbrn"
     committers: 
       - 
         username: "tajila"
@@ -25585,6 +26812,21 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/openk-coremodules/backup.org.eclipse.openk-coremodules.contactBaseData.backend.git"
+      - 
+        url: "/gitroot/openk-coremodules/openk-coremodules.git"
+      - 
+        url: "/gitroot/openk-coremodules/org.eclipse.openk-coremodules.authandauth.git"
+      - 
+        url: "/gitroot/openk-coremodules/org.eclipse.openk-coremodules.contactBaseData.backend.git"
+      - 
+        url: "/gitroot/openk-coremodules/org.eclipse.openk-coremodules.contactBaseData.documentation.git"
+      - 
+        url: "/gitroot/openk-coremodules/org.eclipse.openk-coremodules.contactBaseData.frontend.git"
+      - 
+        url: "/gitroot/openk-coremodules/org.eclipse.openk-coremodules.portalFE.git"
     contributors: []
     committers: 
       - 
@@ -25630,6 +26872,39 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk-platform.openk-repo.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.build.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.build.codeconventions.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.cim.cim17v07.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.cim.profile.openkonsequenz.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.common.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.domain.assetdata.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.domain.dynamictopology.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.domain.measurement.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.domain.statictopology.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.domain.topologystate.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.service.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.sourcesystem.mockupassetdata.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.sourcesystem.mockupmeasurement.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.sourcesystem.mockupstatictopology.git"
+      - 
+        url: "/gitroot/openk-platform/org.eclipse.openk.sourcesystem.mockuptopologystate.git"
     contributors: []
     committers: 
       - 
@@ -25663,6 +26938,43 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/openk-usermodules/openk-usermodules.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.elogbook.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.elogbookFE.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.gridFailureInformation.backend.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.gridFailureInformation.documentation.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.gridFailureInformation.frontend.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.mics.centralService.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.mics.homeService.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.plannedGridMeasures.backend.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.plannedGridMeasures.documentation.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.plannedGridMeasures.frontend.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.standbyPlanning.backend.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.standbyPlanning.docu.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.standbyPlanning.documentation.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.standbyPlanning.frontend.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.statementPublicAffairs.backend.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.statementPublicAffairs.documentation.git"
+      - 
+        url: "/gitroot/openk-usermodules/org.eclipse.openk-usermodules.statementPublicAffairs.frontend.git"
     contributors: 
       - 
         username: "dschmittpxp"
@@ -25750,6 +27062,213 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.abstractstatemachine.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.authentication.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.authentication.ui.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.autowireHelper.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.blob.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.bpm.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.bpm.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.bpmn2.ecore.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.core.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.datainterchange.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.dependencies.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.dependencies-mbp.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.dependencies.p2.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.display.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.display.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.dsl.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.dsl.metadata.service.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ecview.addons.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ecview.core.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ecview.extension.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ecview.extension.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.eventbroker.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.filter.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.fork.jpos.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.fork.mihalis.opal.imageSelector.osgi.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.fork.uomo.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.fork.vaadin.addon.maskedtextfield.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.fork.vaadin.addons.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.fork.xtext.codebuff.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.gemini.dbaccess.postgresql.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.gitinfo.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.i18n.common.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ide.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ide.core.ui.softwarefactory.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ide.logger.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.infogrid.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.jpa.services.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.mobile.vaadin.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.mondrian.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.mondrian.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.osgi.hybrid.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.osgi.hybrid.api.runtime.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.persistence.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.persistence.fragment.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.preferences.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.releng.maven.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.report.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.runtime.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.runtime.functionlibrary.validation.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.runtime.web.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.softwarefactory.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.technologystack.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.tools.graphical.entity.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ui.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.ui.common.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.email.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.functionnormalizer.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.img.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.js.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.themes.ui.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.ui.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.utils.ui.classloaderservice.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaaclipse.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaaclipse.addons.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaaclipse.addons.common.api.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaaclipse.addons.softwarefactory.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaaclipse.common.ecview.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaaclipse.tools.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaadin.addons.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaadin.emf.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.vaadin.widgetset.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.webserver.messagequeue.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.wizard.ui.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.action.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.addons.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.authorization.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.basic.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.blip.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.chart.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.cube.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.datainterchange.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.datamart.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.datamart.common.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.dialog.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.entitymock.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.entitymock.common.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.functionlibrary.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.functionlibrary.common.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.gridsource.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.i18n.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.menu.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.message.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.organization.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.oxtype.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.perspective.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.report.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.signal.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.statemachine.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.strategy.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.table.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.table.common.git"
+      - 
+        url: "/gitroot/osbp/org.eclipse.osbp.xtext.topology.git"
     contributors: []
     committers: 
       - 
@@ -25777,6 +27296,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -25795,6 +27315,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/osee/org.eclipse.osee.git"
+      - 
+        url: "/gitroot/osee/org.eclipse.ote.git"
     contributors: []
     committers: 
       - 
@@ -25938,6 +27463,7 @@
       - 
         url: "https://github.com/eclipse/packagedrone"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -25983,6 +27509,7 @@
       - 
         url: "https://github.com/eclipse/packager"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -26016,6 +27543,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/epp/org.eclipse.epp.packages.git"
+      - 
+        url: "/gitroot/epp/org.eclipse.epp.doc.release.git"
+      - 
+        url: "/gitroot/epp/org.eclipse.epp.logging.git"
+      - 
+        url: "/gitroot/epp/org.eclipse.epp.old.git"
+      - 
+        url: "/gitroot/epp/org.eclipse.epp.usagedata.git"
     contributors: []
     committers: 
       - 
@@ -26189,6 +27727,9 @@
     gitlab_repos: 
       - 
         url: "https://gitlab.eclipse.org/eclipse/mpc/org.eclipse.epp.mpc"
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mpc/org.eclipse.epp.mpc.git"
     contributors: []
     committers: 
       - 
@@ -26318,6 +27859,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/rtp/org.eclipse.rtp.git"
     contributors: []
     committers: 
       - 
@@ -26350,7 +27894,7 @@
     project_id: "technology.passage"
     short_project_id: "passage"
     name: "Eclipse Passage"
-    summary: "Eclipse Passage 0.9.0 is available! The Eclipse Passage project aims to provide rich and easily adaptable capabilities to declare and control licensing constraints. The usage story starts in..."
+    summary: "Eclipse Passage 1.0.0 is available! The Eclipse Passage project aims to provide rich and easily adaptable capabilities to declare and control licensing constraints. The usage story starts in..."
     url: "https://projects.eclipse.org/projects/technology.passage"
     website_url: "https://www.eclipse.org/passage"
     logo: ""
@@ -26369,6 +27913,7 @@
       - 
         url: "https://github.com/eclipse-passage/passage-docs"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -26429,6 +27974,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -26447,6 +27993,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/rcptt/org.eclipse.rcptt.git"
     contributors: []
     committers: 
       - 
@@ -26553,6 +28102,7 @@
       - 
         url: "https://github.com/eclipse/rdf4j-testsuite"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -26625,6 +28175,7 @@
       - "crowd-sourcing"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -26679,6 +28230,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/recommenders.incubator/org.eclipse.recommenders.codesearch.git"
+      - 
+        url: "/gitroot/recommenders.incubator/org.eclipse.recommenders.livedoc.git"
+      - 
+        url: "/gitroot/recommenders.incubator/org.eclipse.recommenders.snipmatch.git"
+      - 
+        url: "/gitroot/recommenders.incubator/org.eclipse.recommenders.stats.git"
+      - 
+        url: "/gitroot/recommenders.incubator/org.eclipse.recommenders.privacy.git"
     contributors: []
     committers: []
     project_leads: []
@@ -26699,6 +28261,7 @@
       - 
         url: "https://github.com/eclipse/reddeer"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -26783,6 +28346,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/remus/org.eclipse.remus.git"
     contributors: []
     committers: []
     project_leads: []
@@ -26806,6 +28372,7 @@
       - 
         url: "https://github.com/eclipse/repairnator"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -26839,6 +28406,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/rtsc/org.eclipse.rtsc.committer.git"
+      - 
+        url: "/gitroot/rtsc/org.eclipse.rtsc.contrib.git"
+      - 
+        url: "/gitroot/rtsc/org.eclipse.rtsc.test.git"
+      - 
+        url: "/gitroot/rtsc/org.eclipse.rtsc.training.git"
+      - 
+        url: "/gitroot/rtsc/org.eclipse.rtsc.xdccore.git"
     contributors: []
     committers: 
       - 
@@ -26875,6 +28453,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sapphire/org.eclipse.sapphire.git"
     contributors: []
     committers: 
       - 
@@ -27051,6 +28632,7 @@
       - 
         url: "https://github.com/eclipse-scava/scava-datasets"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -27127,6 +28709,21 @@
       - 
         url: "https://github.com/eclipse/org.eclipse.scout.docs"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/scout/org.eclipse.scout.rt.git"
+      - 
+        url: "/gitroot/scout/org.eclipse.scout.sdk.git"
+      - 
+        url: "/gitroot/scout/maven-master.git"
+      - 
+        url: "/gitroot/scout/oomph.git"
+      - 
+        url: "/gitroot/scout/scout.rt.incubator.git"
+      - 
+        url: "/gitroot/scout/org.eclipse.scout-aggregator.git"
+      - 
+        url: "/gitroot/scout/ci.git"
     contributors: []
     committers: 
       - 
@@ -27159,6 +28756,9 @@
       - 
         username: "avandorp"
         url: "https://api.eclipse.org/account/profile/avandorp"
+      - 
+        username: "pbaenziger"
+        url: "https://api.eclipse.org/account/profile/pbaenziger"
       - 
         username: "crusche"
         url: "https://api.eclipse.org/account/profile/crusche"
@@ -27263,6 +28863,15 @@
       - "Smart City"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sensinact/org.eclipse.sensinact.git"
+      - 
+        url: "/gitroot/sensinact/org.eclipse.sensinact.gateway.git"
+      - 
+        url: "/gitroot/sensinact/org.eclipse.sensinact.studio.git"
+      - 
+        url: "/gitroot/sensinact/org.eclipse.sensinact.studioweb.git"
     contributors: []
     committers: 
       - 
@@ -27301,6 +28910,7 @@
     gitlab_repos: 
       - 
         url: "https://gitlab.eclipse.org/eclipse/set/set"
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -27328,8 +28938,16 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/simopenpass/doc.git"
+      - 
+        url: "/gitroot/simopenpass/simopenpass.git"
     contributors: []
     committers: 
+      - 
+        username: "uwoessner"
+        url: "https://api.eclipse.org/account/profile/uwoessner"
       - 
         username: "kblenz"
         url: "https://api.eclipse.org/account/profile/kblenz"
@@ -27386,6 +29004,13 @@
       - "OSGi"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sisu/org.eclipse.sisu.inject.git"
+      - 
+        url: "/gitroot/sisu/org.eclipse.sisu.mojos.git"
+      - 
+        url: "/gitroot/sisu/org.eclipse.sisu.plexus.git"
     contributors: []
     committers: 
       - 
@@ -27440,6 +29065,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/skalli/org.eclipse.skalli.git"
     contributors: []
     committers: 
       - 
@@ -27479,6 +29107,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sketch/org.eclipse.sketch.git"
     contributors: []
     committers: []
     project_leads: []
@@ -27500,6 +29131,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/skills/skills.git"
     contributors: []
     committers: 
       - 
@@ -27526,6 +29160,7 @@
       - 
         url: "https://github.com/eclipse/steady"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: 
       - 
         username: "hplate"
@@ -27586,6 +29221,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/stem/org.eclipse.stem.git"
+      - 
+        url: "/gitroot/stem/org.eclipse.stem.data.git"
+      - 
+        url: "/gitroot/stem/org.eclipse.stem.data.earthscience.git"
     contributors: []
     committers: 
       - 
@@ -27699,6 +29341,7 @@
       - "SCM"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -27754,6 +29397,7 @@
       - 
         url: "https://github.com/eclipse/sumo.website"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -27836,6 +29480,7 @@
       - 
         url: "https://github.com/eclipse/sw360.website"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -27912,6 +29557,7 @@
       - 
         url: "https://github.com/eclipse/antenna.website"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -27960,6 +29606,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/swtbot/org.eclipse.swtbot.git"
     contributors: []
     committers: 
       - 
@@ -28050,6 +29699,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/systemfocus/systemfocus.git"
     contributors: []
     committers: 
       - 
@@ -28080,6 +29732,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tea/tea.git"
     contributors: []
     committers: 
       - 
@@ -28116,6 +29771,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tigerstripe/org.eclipse.tigerstripe.git"
     contributors: []
     committers: 
       - 
@@ -28166,6 +29824,7 @@
       - 
         url: "https://github.com/eclipse/tm4e"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -28216,6 +29875,7 @@
       - 
         url: "https://github.com/eclipse/transformer"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -28282,6 +29942,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -28300,6 +29961,17 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tycho/org.eclipse.tycho.git"
+      - 
+        url: "/gitroot/tycho/org.eclipse.tycho.extras.git"
+      - 
+        url: "/gitroot/tycho/org.eclipse.tycho-demo.git"
+      - 
+        url: "/gitroot/tycho/org.eclipse.tycho.nexus.git"
+      - 
+        url: "/gitroot/tycho/org.eclipse.tycho.targeteditor.git"
     contributors: []
     committers: 
       - 
@@ -28369,6 +30041,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/uomo/org.eclipse.uomo.git"
     contributors: []
     committers: 
       - 
@@ -28405,6 +30080,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/usssdk/org.eclipse.usssdk.git"
     contributors: []
     committers: 
       - 
@@ -28450,6 +30128,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -28468,6 +30147,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -28494,6 +30174,9 @@
       - "XML UI"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/xwt/org.eclipse.xwt.git"
     contributors: []
     committers: 
       - 
@@ -28551,6 +30234,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -28578,6 +30262,7 @@
       - 
         url: "https://github.com/eclipse/aCute"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -28626,6 +30311,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ajdt/org.eclipse.ajdt.git"
     contributors: []
     committers: 
       - 
@@ -28723,6 +30411,7 @@
       - 
         url: "https://github.com/eclipse/sequoyah"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -28764,6 +30453,9 @@
       - 
         url: "https://github.com/eclipse/org.aspectj"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/aspectj/org.aspectj.shadows.git"
     contributors: []
     committers: 
       - 
@@ -28803,6 +30495,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/atf/org.eclipse.atf.git"
     contributors: []
     committers: []
     project_leads: []
@@ -28839,6 +30534,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/buckminster/buckminster.git"
     contributors: []
     committers: []
     project_leads: []
@@ -28877,6 +30575,7 @@
       - 
         url: "https://github.com/eclipse/buildship"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -29040,6 +30739,17 @@
       - 
         url: "https://github.com/eclipse-cdt/cdt-new-managedbuild-prototype"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/cdt/org.eclipse.cdt.git"
+      - 
+        url: "/gitroot/cdt/org.eclipse.cdt.edc.git"
+      - 
+        url: "/gitroot/cdt/org.eclipse.cdt.master.git"
+      - 
+        url: "/gitroot/cdt/org.eclipse.launchbar.git"
+      - 
+        url: "/gitroot/cdt/org.eclipse.tools.templates.git"
     contributors: []
     committers: 
       - 
@@ -29256,6 +30966,7 @@
       - 
         url: "https://github.com/eclipse/corrosion"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -29313,6 +31024,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/damos/org.eclipse.damos.git"
     contributors: []
     committers: []
     project_leads: []
@@ -29333,6 +31047,7 @@
       - 
         url: "https://github.com/eclipse/dartboard"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -29363,6 +31078,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/datatools/org.eclipse.datatools.git"
     contributors: []
     committers: 
       - 
@@ -29489,6 +31207,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -29549,6 +31268,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -29609,6 +31329,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -29627,6 +31348,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -29687,6 +31409,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -29721,6 +31444,7 @@
       - 
         url: "https://github.com/eclipse/gef-legacy"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -29916,6 +31640,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ldt/org.eclipse.ldt.git"
+      - 
+        url: "/gitroot/ldt/org.eclipse.metalua.git"
     contributors: []
     committers: 
       - 
@@ -29955,6 +31684,11 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/linuxtools/org.eclipse.linuxtools.eclipse-build.git"
+      - 
+        url: "/gitroot/linuxtools/org.eclipse.linuxtools.git"
     contributors: []
     committers: 
       - 
@@ -30153,6 +31887,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -30171,6 +31906,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mat/org.eclipse.mat.git"
     contributors: []
     committers: 
       - 
@@ -30274,6 +32012,9 @@
       - "Java ME"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/mtj/org.eclipse.mtj.git"
     contributors: []
     committers: 
       - 
@@ -30328,6 +32069,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/objectteams/org.eclipse.objectteams.git"
     contributors: []
     committers: 
       - 
@@ -30415,6 +32159,15 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/oomph/org.eclipse.oomph.git"
+      - 
+        url: "/gitroot/oomph/org.eclipse.oomph.incubator.git"
+      - 
+        url: "/gitroot/oomph/org.eclipse.oomph.setups.git"
+      - 
+        url: "/gitroot/oomph/uss.git"
     contributors: []
     committers: 
       - 
@@ -30511,6 +32264,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/orbit/orbit-recipes.git"
     contributors: []
     committers: 
       - 
@@ -30624,6 +32380,7 @@
       - 
         url: "https://github.com/eclipse/pdt"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -30762,6 +32519,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -30780,6 +32538,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ptp/org.eclipse.ptp.git"
+      - 
+        url: "/gitroot/ptp/org.eclipse.ptp.doc.git"
+      - 
+        url: "/gitroot/ptp/org.eclipse.remote.git"
     contributors: []
     committers: 
       - 
@@ -30975,6 +32740,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/ptp/org.eclipse.photran.git"
     contributors: []
     committers: 
       - 
@@ -31041,6 +32809,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/secoblocks/secoblocks.git"
     contributors: []
     committers: 
       - 
@@ -31095,6 +32866,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sequoyah/org.eclipse.sequoyah.git"
     contributors: []
     committers: []
     project_leads: []
@@ -31145,6 +32919,7 @@
       - 
         url: "https://github.com/eclipse/shellwax"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -31191,6 +32966,11 @@
       - "launch"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tcf/org.eclipse.tcf.git"
+      - 
+        url: "/gitroot/tcf/org.eclipse.tcf.agent.git"
     contributors: []
     committers: 
       - 
@@ -31262,6 +33042,7 @@
       - 
         url: "https://github.com/eclipse/thym"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -31423,6 +33204,165 @@
       - 
         url: "https://github.com/eclipse/titan.ProtocolModules.JSON_Web_Signature"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/titan/titan.ApplicationLibraries.CoAP.git"
+      - 
+        url: "/gitroot/titan/titan.ApplicationLibraries.HTTP.git"
+      - 
+        url: "/gitroot/titan/titan.ApplicationLibraries.LWM2M.git"
+      - 
+        url: "/gitroot/titan/titan.ApplicationLibraries.MBT.git"
+      - 
+        url: "/gitroot/titan/titan.ApplicationLibraries.MQTT.git"
+      - 
+        url: "/gitroot/titan/titan.Applications.IoT_Functiontest_Framework.git"
+      - 
+        url: "/gitroot/titan/titan.Applications.IoT_Loadtest_Framework.git"
+      - 
+        url: "/gitroot/titan/titan.Applications.RIoT.git"
+      - 
+        url: "/gitroot/titan/titan.Libraries.CLL.git"
+      - 
+        url: "/gitroot/titan/titan.Libraries.ServiceFramework.git"
+      - 
+        url: "/gitroot/titan/titan.Libraries.TLS.git"
+      - 
+        url: "/gitroot/titan/titan.Libraries.Web_GUI.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolEmulations.M3UA.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolEmulations.SCCP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolEmulations.SCTP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolEmulations.SUA.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29502_Nsmf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29503_Nudm_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29508_Nsmf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29509_Nausf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29510_Nnrf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29511_N5g_eir_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29512_Npcf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29514_Npcf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29518_Namf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29520_Nnwdaf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29571_CommonData_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29572_Nlmf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS29594_Nchf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.5G_system_TS32291_Nchf_v15.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.BSSAPP_v7.3.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.BSSGP_v13.0.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.BSSMAP_v11.2.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.CoAP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.DSS1_ETSI.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.DUA.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.EAP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.GCP_31r1.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.GRE.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.GTP_v13.5.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.GTPv2_v13.7.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.GTPv2_v15.2.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.HTTP2.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.ISUP_Q.762.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.JSON_Generic.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.LLC_v7.1.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.M2PA.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.M2UA.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.MobileL3_v13.4.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.MongoDB.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.MQTT.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.NAS_EPS_15.2.0.1.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.NDP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.NS_v7.3.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.NTAF.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.OPC_UA.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.PFCP_v15.1.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.ROSE.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.SCTP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.SDP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.SGsAP_13.2.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.SNDCP_v7.0.0.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.STOMP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.STUN.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.STUN_RFC5389.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.SUA.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.TLS.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.V5.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.WTP.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.XML_RPC.git"
+      - 
+        url: "/gitroot/titan/titan.ProtocolModules.XTDP.git"
+      - 
+        url: "/gitroot/titan/titan.Servers.GTP_Tunnel_Daemon.git"
+      - 
+        url: "/gitroot/titan/titan.Servers.IP_Daemon_Dynamic.git"
+      - 
+        url: "/gitroot/titan/titan.Servers.SCTP_Daemon_Dynamic.git"
+      - 
+        url: "/gitroot/titan/titan.TestPorts.GPIO.git"
+      - 
+        url: "/gitroot/titan/titan.TestPorts.MTP3asp.git"
+      - 
+        url: "/gitroot/titan/titan.TestPorts.Serial.git"
+      - 
+        url: "/gitroot/titan/titan.TestPorts.SocketCANasp.git"
+      - 
+        url: "/gitroot/titan/titan.TestPorts.Thrift_TPG.git"
     contributors: []
     committers: 
       - 
@@ -31507,6 +33447,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tm/org.eclipse.tm.git"
     contributors: []
     committers: 
       - 
@@ -31627,6 +33570,15 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tptp/org.eclipse.tptp.platform.git"
+      - 
+        url: "/gitroot/tptp/org.eclipse.tptp.test.git"
+      - 
+        url: "/gitroot/tptp/org.eclipse.tptp.trace.git"
+      - 
+        url: "/gitroot/tptp/org.eclipse.tptp.test-results.git"
     contributors: []
     committers: []
     project_leads: []
@@ -31645,6 +33597,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tracecompass/org.eclipse.tracecompass.git"
     contributors: []
     committers: 
       - 
@@ -31756,6 +33711,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/tracecompass.incubator/org.eclipse.tracecompass.incubator.git"
     contributors: []
     committers: 
       - 
@@ -31816,6 +33774,7 @@
       - 
         url: "https://github.com/eclipse/wildwebdeveloper"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -31841,6 +33800,12 @@
     spec_project_working_group: []
     state: "Incubating"
     releases: 
+      - 
+        name: "0.11.3"
+        url: "https://projects.eclipse.org/projects/tools.wildwebdeveloper/releases/0.11.3"
+      - 
+        name: "0.11.2"
+        url: "https://projects.eclipse.org/projects/tools.wildwebdeveloper/releases/0.11.2"
       - 
         name: "0.11.1"
         url: "https://projects.eclipse.org/projects/tools.wildwebdeveloper/releases/0.11.1"
@@ -31905,6 +33870,7 @@
       - 
         url: "https://github.com/eclipse/windowbuilder"
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -31960,6 +33926,9 @@
     spec_project_working_group: []
     state: "Regular"
     releases: 
+      - 
+        name: "1.9.5"
+        url: "https://projects.eclipse.org/projects/tools.windowbuilder/releases/1.9.5"
       - 
         name: "1.9.4"
         url: "https://projects.eclipse.org/projects/tools.windowbuilder/releases/1.9.4"
@@ -32028,6 +33997,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: 
       - 
@@ -32050,6 +34020,9 @@
     spec_project_working_group: []
     state: "Regular"
     releases: 
+      - 
+        name: "3.20"
+        url: "https://projects.eclipse.org/projects/webtools/releases/3.20"
       - 
         name: "3.19 (2020-09)"
         url: "https://projects.eclipse.org/projects/webtools/releases/3.19-2020-09"
@@ -32220,6 +34193,15 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/webtools-common/webtools.common.fproj.git"
+      - 
+        url: "/gitroot/webtools-common/webtools.common.git"
+      - 
+        url: "/gitroot/webtools-common/webtools.common.snippets.git"
+      - 
+        url: "/gitroot/webtools-common/webtools.common.tests.git"
     contributors: []
     committers: 
       - 
@@ -32307,6 +34289,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/dali/webtools.dali.git"
     contributors: []
     committers: 
       - 
@@ -32394,6 +34379,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -32412,6 +34398,7 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: []
     contributors: []
     committers: []
     project_leads: []
@@ -32485,6 +34472,9 @@
       - "glassfish"
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/glassfish-tools/glassfish-tools.git"
     contributors: []
     committers: 
       - 
@@ -32512,6 +34502,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/webtools/org.eclipse.webtools.incubator.git"
     contributors: []
     committers: 
       - 
@@ -32581,6 +34574,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/webtools/org.eclipse.webtools.java-ee-config.git"
     contributors: []
     committers: []
     project_leads: []
@@ -32599,6 +34595,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jeetools/webtools.javaee.git"
     contributors: []
     committers: 
       - 
@@ -32688,6 +34687,15 @@
       - 
         url: "https://github.com/eclipse/webtools.jsdt"
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jsdt/webtools.jsdt.git"
+      - 
+        url: "/gitroot/jsdt/webtools.jsdt.core.git"
+      - 
+        url: "/gitroot/jsdt/webtools.jsdt.debug.git"
+      - 
+        url: "/gitroot/jsdt/webtools.jsdt.tests.git"
     contributors: []
     committers: 
       - 
@@ -32796,6 +34804,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/jsf/webtools.jsf.git"
+      - 
+        url: "/gitroot/jsf/webtools.jsf.docs.git"
+      - 
+        url: "/gitroot/jsf/webtools.jsf.tests.git"
     contributors: []
     committers: 
       - 
@@ -32853,6 +34868,9 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/libra/org.eclipse.libra.git"
     contributors: []
     committers: 
       - 
@@ -32922,6 +34940,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/webtools/webtools.releng.aggregator.git"
+      - 
+        url: "/gitroot/webtools/webtools.releng.git"
+      - 
+        url: "/gitroot/webtools/webtools.maps.git"
     contributors: []
     committers: 
       - 
@@ -32979,6 +35004,15 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/servertools/webtools.servertools.git"
+      - 
+        url: "/gitroot/servertools/webtools.servertools.devsupport.git"
+      - 
+        url: "/gitroot/servertools/webtools.servertools.docs.git"
+      - 
+        url: "/gitroot/servertools/webtools.servertools.tests.git"
     contributors: []
     committers: 
       - 
@@ -33081,6 +35115,19 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/sourceediting/webtools.sourceediting.git"
+      - 
+        url: "/gitroot/sourceediting/webtools.sourceediting.tests.git"
+      - 
+        url: "/gitroot/sourceediting/webtools.sourceediting.xpath.git"
+      - 
+        url: "/gitroot/sourceediting/webtools.sourceediting.xpath.tests.git"
+      - 
+        url: "/gitroot/sourceediting/webtools.sourceediting.xsl.git"
+      - 
+        url: "/gitroot/sourceediting/webtools.sourceediting.xsl.tests.git"
     contributors: []
     committers: 
       - 
@@ -33231,6 +35278,21 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/vjet/org.eclipse.vjet.all.git"
+      - 
+        url: "/gitroot/vjet/org.eclipse.vjet.core.git"
+      - 
+        url: "/gitroot/vjet/org.eclipse.vjet.dltk.git"
+      - 
+        url: "/gitroot/vjet/org.eclipse.vjet.eclipse.git"
+      - 
+        url: "/gitroot/vjet/org.eclipse.vjet.jsdt.parser.git"
+      - 
+        url: "/gitroot/vjet/org.eclipse.vjet.rhino.git"
+      - 
+        url: "/gitroot/vjet/org.eclipse.vjet.vsf.git"
     contributors: []
     committers: []
     project_leads: []
@@ -33252,6 +35314,13 @@
     tags: []
     github_repos: []
     gitlab_repos: []
+    gerrit_repos: 
+      - 
+        url: "/gitroot/webservices/webtools.webservices.git"
+      - 
+        url: "/gitroot/webservices/webtools.webservices.axis2.git"
+      - 
+        url: "/gitroot/webservices/webtools.webservices.jaxws.git"
     contributors: []
     committers: 
       - 
