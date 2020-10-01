@@ -11,7 +11,7 @@ youtube: ""
 funding_bodies: ["bmwi"]
 eclipse_projects: []
 project_type: running
-summary: "FabOS is the Industries 4.0 open, distributed, real-time, and secure Operation System."
+summary: "FabOS is the Industries 4.0 open, distributed, real-time, and secure operating system."
 ---
 
 **FabOS is the Industrie 4.0 Operating System.** The project develops an open, distributed, real-time, and secure operating system for the factory of the future. It will be the basis for data-driven services and AI applications in future smart factories.
