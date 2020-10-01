@@ -2,24 +2,21 @@
 	<div class="margin-bottom-30">
 		{{ .Content }}
 	</div>
-	{{ if gt (len .Params.eclipse_projects) 0 }}
-	<h2 class="margin-bottom-40">Eclipse projects</h2>
+	{{ if .Params.referenced_eclipse_projects }}
+	{{ if gt (len .Params.referenced_eclipse_projects) 0 }}
+	<h2 class="margin-bottom-40">Referenced Eclipse projects</h2>
 	<div class="row">
-	{{ range .Params.eclipse_projects }}
+	{{ range .Params.referenced_eclipse_projects }}
 		{{range first 1 (where $.Site.Data.eclipsefdn_projects "project_id" .) }}
-		<div class="col-sm-12 margin-bottom-30 match-height-item-by-row flex-column project-item">
-		  <div class="padding-bottom-20 text-center background-white flex-grow">
-		    <div >
-		      <h3>
+		<div class="col-md-4 margin-bottom-30 match-height-item-by-row vertical-align margin-right-20 project-item">
+		  <!-- <div class="padding-bottom-20 text-center background-white flex-grow"> -->
 		        <a href="{{ .url }}">
-			      <img class="img img-responsive margin-auto padding-bottom-20 " src="{{ .logo }}" title="{{ .name }} logo"/>
-				  {{ .name }}
+			      <img class="img img-responsive padding-bottom-20" style="max-width: 100%; vertical-align: middle;" src="{{ .logo }}" title="{{ .name }} logo"/>
 			    </a>
-			  </h3>
-			</div>
-		  </div>
+		  <!-- </div> -->
 	    </div>
 		{{ end }}
+	{{ end }}
 	{{ end }}
 	</div>
 	{{ end }}
@@ -93,6 +90,23 @@
 								{{ else }}
 								<i style="width:75px;height:75px;" class="center-block" data-feather="file-text" stroke-width="1"></i>
 								{{ end }}
+							</a>
+						</li>
+					{{ end }}
+				{{ end }}
+			</ul>
+		</div>
+		{{ end }}
+		{{ if gt (len .Params.eclipse_projects) 0 }}
+		<div class="sidebar-panel margin-top-20 margin-bottom-20">
+			<h2>Eclipse Projects Contributions</h2>
+			<ul class="padding-left-0">
+				{{ range .Params.eclipse_projects }}
+				    {{range first 1 (where $.Site.Data.eclipsefdn_projects "project_id" .) }}
+						<li class="vertical-align">
+							<a href="{{ .url }}">
+								<img class="img img-responsive margin-auto padding-bottom-20 " src="{{ .logo }}" title="{{ .name }} logo"/>
+								{{ .name }}
 							</a>
 						</li>
 					{{ end }}
