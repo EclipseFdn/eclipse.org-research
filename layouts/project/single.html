@@ -2,25 +2,25 @@
 	<div class="margin-bottom-30">
 		{{ .Content }}
 	</div>
+
 	{{ if .Params.referenced_eclipse_projects }}
-	{{ if gt (len .Params.referenced_eclipse_projects) 0 }}
-	<h2 class="margin-bottom-40">Referenced Eclipse projects</h2>
-	<div class="row">
-	{{ range .Params.referenced_eclipse_projects }}
-		{{range first 1 (where $.Site.Data.eclipsefdn_projects "project_id" .) }}
-		<div class="col-md-4 margin-bottom-30 match-height-item-by-row vertical-align margin-right-20 project-item">
-		  <!-- <div class="padding-bottom-20 text-center background-white flex-grow"> -->
-		        <a href="{{ .url }}">
-			      <img class="img img-responsive padding-bottom-20" style="max-width: 100%; vertical-align: middle;" src="{{ .logo }}" title="{{ .name }} logo"/>
-			    </a>
-		  <!-- </div> -->
-	    </div>
+		{{ if gt (len .Params.referenced_eclipse_projects) 0 }}
+			<h2 class="margin-top-30 margin-bottom-20">Referenced Eclipse projects</h2>
+			<div class="row">
+			{{ range .Params.referenced_eclipse_projects }}
+			    {{range first 1 (where $.Site.Data.eclipsefdn_projects "project_id" .) }}
+			    <div class="col-md-4 background-white margin-bottom-20 match-height-item vertical-align margin-right-20">
+			        <a href="{{ .url }}" class="padding-20">
+			          <img class="img img-responsive" src="{{ .logo }}" title="{{ .name }} logo"/>
+			        </a>
+			    </div>
+			    {{ end }}
+			{{ end }}
+			</div>
 		{{ end }}
 	{{ end }}
-	{{ end }}
-	</div>
-	{{ end }}
 {{ end }}
+
 
 {{ define "main_suffix" }}
 	</div>
@@ -104,7 +104,7 @@
 				{{ range .Params.eclipse_projects }}
 				    {{range first 1 (where $.Site.Data.eclipsefdn_projects "project_id" .) }}
 						<li class="vertical-align">
-							<a href="{{ .url }}">
+							<a href="{{ .url }}" class="vertical-align flex-column">
 								<img class="img img-responsive margin-auto padding-bottom-20 " src="{{ .logo }}" title="{{ .name }} logo"/>
 								{{ .name }}
 							</a>
@@ -114,6 +114,6 @@
 			</ul>
 		</div>
 		{{ end }}
-  	</div>
+	</div>
 </main>
 {{ end }}
