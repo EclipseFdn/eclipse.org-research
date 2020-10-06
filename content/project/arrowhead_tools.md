@@ -9,7 +9,7 @@ linkedin: "https://www.linkedin.com/groups/5071265/"
 twitter: "https://twitter.com/arrowheadeu"
 youtube: "https://www.youtube.com/user/ArrowheadProject"
 funding_bodies: ["horizon2020","ecsel","artemis"]
-eclipse_projects: []
+eclipse_projects: [iot.arrowhead]
 project_type: running
 summary: "Engineering processes, integration platform, tools and tool chains for the cost-efficient development of digitalisation, connectivity and automation system solutions."
 ---
