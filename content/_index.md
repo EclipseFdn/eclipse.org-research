@@ -25,4 +25,6 @@ header_wrapper_class: "header-default-bg-img small-jumbotron-subtitle"
 
 {{< home-section-projects >}}
 
+{{< home-section-resources >}}
+
 {{< home-section-contact >}}
