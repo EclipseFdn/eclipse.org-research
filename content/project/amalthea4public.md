@@ -10,6 +10,7 @@ twitter: ""
 youtube: ""
 funding_bodies: ["itea3"]
 eclipse_projects: ["technology.app4mc"]
+referenced_eclipse_projects: ["iot.ditto", "iot.hawkbit", "iot.hono"]
 project_type: success
 summary: "A platform for engineering embedded multi- and many-core software systems."
 ---
