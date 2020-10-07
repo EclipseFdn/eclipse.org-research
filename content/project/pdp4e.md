@@ -10,7 +10,6 @@ twitter: "https://twitter.com/pdp4e"
 youtube: ""
 funding_bodies: ["horizon2020"]
 eclipse_projects: ["polarsys.opencert", "modeling.mdt.papyrus"]
-referenced_eclipse_projects: ["iot.ditto", "iot.hawkbit", "iot.hono"]
 project_type: running
 summary: "Methods and software tools to systematically apply data protection principles in projects."
 ---

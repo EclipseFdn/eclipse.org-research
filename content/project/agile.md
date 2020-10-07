@@ -10,7 +10,6 @@ twitter: "https://twitter.com/agile_iot"
 youtube: "https://www.youtube.com/channel/UC8JldOp0AeEPCblQjAetirQ"
 funding_bodies: ["horizon2020"]
 eclipse_projects: ["iot.agail"]
-referenced_eclipse_projects: ["iot.ditto", "iot.hawkbit"]
 project_type: success
 summary: "A language-agnostic, modular software and hardware gateway framework for the Internet of Things."
 ---
