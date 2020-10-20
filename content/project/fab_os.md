@@ -7,11 +7,11 @@ homepage: "https://www.fab-os.org/en/"
 facebook: ""
 linkedin: ""
 twitter: ""
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=UZnhiqrv1iQ"
 funding_bodies: ["bmwi"]
 eclipse_projects: []
 project_type: running
-summary: "FabOS is the Industries 4.0 open, distributed, real-time, and secure operating system."
+summary: "The Industrie 4.0 Operating System"
 ---
 
 **FabOS is the Industrie 4.0 Operating System.** The project develops an open, distributed, real-time, and secure operating system for the factory of the future. It will be the basis for data-driven services and AI applications in future smart factories.
@@ -39,6 +39,8 @@ Open source draws its strength from being easy to integrate and reuse. Consequen
 For example, [Eclipse BaSyx](https://www.eclipse.org/basyx/) will be an integral part of the FabOS ecosystem. Eclipse BaSyx is developed as part of [BaSys 4.2](https://www.basys40.de/), the continuation of the [BaSys 4.0](https://www.basys40.de/) research project. It implements key Industry 4.0 concepts, such as the [Asset Administration Shell](https://www.plattform-i40.de/PI40/Redaktion/EN/Downloads/Publikation/Details-of-the-Asset-Administration-Shell-Part1.html), and provides off-the-shelf components that enable quick setup of an Industry 4.0 infrastructure.
 
 The FabOS project team also plans to integrate open source solutions from other domains, such as edge computing. That means FabOS will provide an open source infrastructure that is built on other open source components.
+
+[FabOS flyer](https://www.fab-os.org/fileadmin/user_upload/FabOS-OnePager.pdf)
 
 # Consortium
 ## Research

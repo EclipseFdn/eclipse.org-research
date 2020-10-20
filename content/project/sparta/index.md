@@ -7,7 +7,7 @@ homepage: "http://www.sparta.eu"
 facebook: ""
 linkedin: ""
 twitter: ""
-youtube: ""
+youtube: "https://youtu.be/cU1QsdyaNXs"
 funding_bodies: ["horizon2020"]
 eclipse_projects: ["technology.steady"]
 project_type: running
@@ -54,3 +54,6 @@ The use of open-source software (OSS) is ever-increasing, and so is the number o
 Nowadays several tools exist to detect whether vulnerable libraries are among application dependencies, however most of them rely on meta-data for mapping libraries to vulnerabilities. A team of security researchers at SAP has developed a different approach based on the detection of vulnerable code rather than vulnerable libraries (see <https://arxiv.org/pdf/1806.05893.pdf>).
 
 Eclipse Steady, the tool implementing this code-centric and usage-based approach, is officially recommended by SAP to scan its Java software. It has been recently released as an open source tool and has now found a new home at the Eclipse Foundation. It will be further improved as part of SPARTA’s CAPE program.
+
+[SPARTA Flyer](sparta_leaflet-pdf.pdf)
+[Additional Video](https://www.sparta.eu/assets/videos/SPARTA_Project_presentation_video.mp4)
