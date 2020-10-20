@@ -10,6 +10,7 @@ twitter: "http://twitter.com/appstacle"
 youtube: "https://www.youtube.com/channel/UC3BnXf0r7qguzHIq1FzeBtw"
 funding_bodies: ["itea3"]
 eclipse_projects: ["iot.kuksa"]
+referenced_eclipse_projects: ["iot.ditto", "iot.hawkbit", "iot.hono", "iot.leshan", "ecd.che", "ecd.theia"]
 project_type: success
 summary: "A cloud platform that interconnects a wide range of vehicles to the cloud via in-car and internet connections."
 ---
