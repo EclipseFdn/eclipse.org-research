@@ -7,11 +7,11 @@ homepage: "https://www.basys40.de/"
 facebook: ""
 linkedin: ""
 twitter: ""
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=kx2F5E5foLU"
 funding_bodies: ["bmbf"]
 eclipse_projects: ["technology.basyx"]
 project_type: running
-summary: "Digitalizes manufacturing processes and integrates the devices on the shopfloor with a company‘s IT."
+summary: "Open Platform of the Fourth Industrial Revolution"
 ---
 BaSys 4.2 with its open-source reference implementation [Eclipse BaSyx](https://www.eclipse.org/basyx/) digitalizes manufacturing processes and integrates the devices on the shopfloor with a company‘s IT.
 
@@ -36,6 +36,9 @@ Eclipse BaSyx realizes the following technologies implementing central pillars o
 shell of an asset contains sub-models providing, for example, its interface as well as status and live data.
 
 * **Control Components** realize uniform service interfaces for devices. They separate the implementation of production services from the production processes and make the production changeable. Control components also realize more abstract services, which abstract from the details of the implementation and are therefore easier to use. Control components are realized by means of runtime environments.
+
+[BaSys flyer](http://www.basys40.de/wp-content/uploads/2019/12/Flyer_BaSys42_english.pdf)
+[Additional video](https://www.youtube.com/watch?v=bMY8FLhjjRI)
 
 # Consortium
 

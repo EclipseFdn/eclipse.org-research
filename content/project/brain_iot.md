@@ -20,6 +20,8 @@ BRAIN-IoT tackles future business-critical and privacy-sensitive IoT scenarios s
 Open semantic models are used to enforce interoperable operations and exchange of data and control features, supported by model-based development tools to ease prototyping and integration of interoperable solutions. Overall, secure operations are guaranteed by a consistent framework providing AAA features in highly dynamic, distributed IoT scenarios, joint with solutions to embed privacy awareness and control features.
 The viability of the proposed approaches is demonstrated in two futuristic usage scenarios, namely Service Robotics and Critical Infrastructure Management, as well as through a series of proof-of-concept demonstrations in collaboration with ongoing IoT large-scale pilot initiatives.
 
+[BRAIN-IoT flyer](http://www.brain-iot.eu/wp-content/uploads/2018/11/BrainIOT-Flyer-Version-1.0_10_2018.pdf)
+
 This project is running from January 2018 - December 2020.
 
 # Consortium

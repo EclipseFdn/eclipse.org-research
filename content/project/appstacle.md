@@ -12,13 +12,15 @@ funding_bodies: ["itea3"]
 eclipse_projects: ["iot.kuksa"]
 referenced_eclipse_projects: ["iot.ditto", "iot.hawkbit", "iot.hono", "iot.leshan", "ecd.che", "ecd.theia"]
 project_type: success
-summary: "A cloud platform that interconnects a wide range of vehicles to the cloud via in-car and internet connections."
+summary: "Open Standard Application Platform for Cars and Transportation Vehicles"
 ---
 Bringing open source principles to the automotive industry could allow break-down of silos and increase flexibility of solutions across the whole automotive eco-system. This is one key goal for the ITEA 3 APPSTACLE consortium. One important element is the recently established Eclipse KUKSA open source project, which unifies technologies across the vehicle, IoT, cloud and security domains. The APPSTACLE community now invites researchers and developers to explore and contribute to KUKSA!
 
 The automotive industry has evolved quite radically in the last few decades, when driver experience was all about vehicle aesthetics, engine and ergonomics, without any interaction with the outside world. Nowadays, even a single vehicle is like a small ecosystem, characterised by numerous components and highly sophisticated systems interacting with each other to ensure safe driving and a great driving experience. Network connectivity plays a key role in this ecosystem.
 
 The majority of automotive software development is currently made in-house by individual carmakers or Original Equipment Manufacturers (OEMs), with little to no openness towards the open source world. This approach cannot meet the long-term industry challenges. The main goal of the ITEA 3 APPSTACLE project is to ensure that the automotive industry can take advantage of open source and break away from dependency on proprietary solutions. The next major step in this process is the open source project Eclipse KUKSA!
+
+[APPSTACLE flyer](https://f.hubspotusercontent10.net/hubfs/5413615/Kuksa.Case.Study.pdf)
 
 This project was running from October 2016 - December 2019.
 

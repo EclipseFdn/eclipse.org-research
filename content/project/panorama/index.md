@@ -7,15 +7,17 @@ homepage: "https://www.panorama-research.org/"
 facebook: ""
 linkedin: ""
 twitter: "https://twitter.com/PanoramaEng"
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=3GMcZeRXASQ"
 funding_bodies: ["itea3", "bmbf"]
 eclipse_projects: ["technology.app4mc","modeling.capra"]
 project_type: running
-summary: "Accelerating design efficiency for automotive and aerospace systems"
+summary: "Accelerating design efficiency for Automotive and aerospace systems"
 ---
 The Panorama project boosts design efficiency for heterogeneous automotive and aerospace systems. Based in open source, it provides an environment for collaboration amongst diverse hardware and software technologies and teams, especially at the early stages of design. It supports efficient design decisions by defining evolving standards, tools and best practises for exchange of non-functional, formal models. (Source: www.panorama-research.org)
 
 The main activities of the project will extend the scope of current system level approaches by enhancing existing abstract performance meta-models to be suitable for heterogeneous hardware, and heterogeneous function domains. We will stand on the shoulder of giants by building on the meta-model developed in the AMALTHEA and AMALTHEA4 public projects, taking results from projects such as TIMMO, Timmo2USE, ARAMiS I & II into account. The enhanced meta-model will be a common and open standard to support development by diverse parties across organizations.
+
+[PANORAMA flyer](panorama-flyer-2019-print.pdf)
 
 #Consortium
 
