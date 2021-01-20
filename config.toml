@@ -15,7 +15,6 @@ pluralizeListTitles = false
   keywords = ["eclipse", "research"]
   styles = "css/styles.css"
   gcse = "011805775785170369411:p3ec0igo0qq"
-  hugo_js = ""
   js = "js/solstice.js"
   logo = "images/eclipse-research-logo-transparent.svg"
   logo_width = "250"
