@@ -5,13 +5,13 @@ logo: "/images/research/transact.png"
 tags: ["CPS", "Cyber-Physcial System", "Security", "Cloud", "Edge", "Automotive"]
 homepage: "https://transact-ecsel.eu/"
 facebook: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/company/transact-project/"
 twitter: "https://twitter.com/TransactProject"
 youtube: ""
 funding_bodies: ["horizon2020", "ecsel"]
 eclipse_projects: []
 project_type: running
-summary: "An integrated approach built on top of the current code-centric robotic platforms."
+summary: "Towards safe and secure distributed cyber-physical systems"
 ---
 
 Cyber-physical systems (CPS) are all around us, but due to today’s technical limitations and the possibility of human error, we cannot yet tap into their full potential. A more integrated and connected architecture for such systems, via edge and cloud technologies, could overcome these limitations.
