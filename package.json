@@ -23,7 +23,7 @@
     "fetch_project": "NODE_ENV=production node node_modules/eclipsefdn-hugo-solstice-theme/bin/projects/index.js -l data/"
   },
   "dependencies": {
-    "eclipsefdn-hugo-solstice-theme": "0.0.111"
+    "eclipsefdn-hugo-solstice-theme": "0.0.129"
   },
   "browserslist": "last 5 version, > 0.2%, not dead, IE 11"
 }
