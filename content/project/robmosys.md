@@ -10,7 +10,7 @@ twitter: "https://twitter.com/RobMoSys/"
 youtube: "https://www.youtube.com/channel/UCURqFtHgAPsXl9mB_QgbB0w"
 funding_bodies: ["horizon2020"]
 eclipse_projects: ["modeling.smartmdsd"]
-project_type: running
+project_type: success
 summary: "An integrated approach built on top of the current code-centric robotic platforms."
 ---
 RobMoSys envisions an integrated approach built on top of the current code-centric robotic platforms, by applying model-driven methods and tools.
@@ -22,7 +22,7 @@ RobMoSys will enable the management of the interfaces between different robotics
 
 The [**RobMoSys Academy**](https://robmosys.eu/academy_/) provides a comprehensive set of online training material and tutorials to get familar with the RobMoSys methodology and tools!
 
-RobMoSys runs from January 2017 - December 2020 and is coordinated by CEA.
+RobMoSys was running from January 2017 to December 2020.
 
 ## Eclipse Papyrus4Robotics
 [Papyrus4Robotics](https://www.eclipse.org/papyrus/components/robotics/) is a graphical editing tool for robotic applications that complies with the RobMoSys approach. It manages complexity of robotics development by supporting composition-oriented engineering of robotics systems and separating the task into multiple tiers executed by different roles. It is based on [Eclipse Papyrus](https://www.eclipse.org/papyrus/), an industrial-grade open source Model-Based Engineering tool. Eclipse Papyrus has notably been used successfuly in industrial projects and is the base platform for several industrial modeling tools. 

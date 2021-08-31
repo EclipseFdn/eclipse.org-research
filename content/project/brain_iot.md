@@ -10,7 +10,7 @@ twitter: "https://twitter.com/Brain_IoT"
 youtube: "https://www.youtube.com/channel/UCuft33LBDs54oOcR06tDBxw"
 funding_bodies: ["horizon2020"]
 eclipse_projects: []
-project_type: running
+project_type: success
 summary: "Model-basd framework for dependable sensing and actuation in intelligent decentralized IoT systems"
 ---
 BRAIN-IoT focuses on complex scenarios where actuation and control are cooperatively supported by populations of IoT systems. The breakthrough targeted by BRAIN-IoT is to establish a framework and methodology supporting smart cooperative behaviour in fully de-centralized, composable and dynamic federations of heterogeneous IoT platforms.
@@ -22,7 +22,7 @@ The viability of the proposed approaches is demonstrated in two futuristic usage
 
 [BRAIN-IoT flyer](http://www.brain-iot.eu/wp-content/uploads/2018/11/BrainIOT-Flyer-Version-1.0_10_2018.pdf)
 
-This project is running from January 2018 - December 2020.
+This project was running from January 2018 to March 2021.
 
 # Consortium
 
