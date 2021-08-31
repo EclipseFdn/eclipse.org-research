@@ -10,7 +10,7 @@ twitter: "https://twitter.com/pdp4e"
 youtube: "https://youtu.be/WdwGo2zgqzg"
 funding_bodies: ["horizon2020"]
 eclipse_projects: ["polarsys.opencert", "modeling.mdt.papyrus"]
-project_type: running
+project_type: success
 summary: "Methods and Tools for GDPR Compliance through Privacy and Data Protection Engineering"
 ---
 PDP4E is an innovation action that will provide software and system engineers with methods and software tools to systematically apply data protection principles in the projects they carry out, so that the products they create comply with the General Data Protection Regulation (GDPR), thus bringing the principles of Privacy and Data Protection by Design to practice.
@@ -21,7 +21,7 @@ PDP4E will integrate privacy and data protection engineering functionalities int
 [PDP4E flyer](https://upload.trialog.com/jirafeau/f.php?h=2z8WTfzf&d=1)
 [Additional Video](https://youtu.be/pji6_ZMKQ1w)
 
-This project is running from May 2018 - April 2021.
+This project was running from May 2018 to April 2021.
 
 # Consortium
 * TRIALOG - France
