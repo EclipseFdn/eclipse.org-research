@@ -9,7 +9,7 @@ linkedin: "https://www.linkedin.com/groups/13579932"
 twitter: "https://twitter.com/Brain_IoT"
 youtube: "https://www.youtube.com/channel/UCuft33LBDs54oOcR06tDBxw"
 funding_bodies: ["horizon2020"]
-eclipse_projects: []
+eclipse_projects: ["technology.sensinact"]
 project_type: success
 summary: "Model-basd framework for dependable sensing and actuation in intelligent decentralized IoT systems"
 ---
