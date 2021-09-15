@@ -6,8 +6,6 @@ The Eclipse Foundation has been a partner in many publicly funded research proje
 
 The Eclipse Foundation welcomes the opportunity to work with new industry research projects. If you would like more information please contact us at research@eclipse.org
 
-[![Build Status](https://travis-ci.org/eclipsefdn/eclipse.org-research.svg?branch=master)](https://travis-ci.org/eclipsefdn/eclipse.org-research)
-
 ## Getting started
 
 Install dependencies, build assets and start a webserver:
