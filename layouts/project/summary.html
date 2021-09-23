@@ -2,7 +2,7 @@
   <div class="padding-20 text-center background-white flex-grow">
     <h2 class="h4">
       <a href="{{ .Permalink }}">
-  	    <span class="vertical-align flex-column margin-bottom-20" style="height:150px">
+  	    <span class="vertical-align flex-column margin-bottom-20" style="max-height:150px">
           {{ if .Params.logo }}
 	      <img class="img img-responsive margin-auto padding-15" src="{{ .Params.logo | relURL }}" alt="{{ .Title }} logo" height="150"/>
           {{ else }}
