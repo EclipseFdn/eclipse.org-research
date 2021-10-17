@@ -1,5 +1,12 @@
 # eclipse.org-research
 
+---
+**NOTE**
+
+This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipsefdn/it/websites/eclipse.org-research) on October 14, 2021.
+
+---
+
 The [https://eclipsefdn-research.netlify.com](https://eclipsefdn-research.netlify.com) website is generated with [Hugo](https://gohugo.io/documentation/). 
 
 The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation.
